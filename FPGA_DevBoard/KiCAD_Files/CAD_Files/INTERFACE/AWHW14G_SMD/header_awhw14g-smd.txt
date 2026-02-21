@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-30082010-065219";"";
+"REFERENCE";"AWHW14G-SMD";"";
+"TraceParts.PartTitle";"Header, 10 - 40 contacts, pitch 2.54mm x 2.54mm, SMD";"";
+"TraceParts.InstanceId";"10-30082010-0652196MO59ZDG3CV0GKYGR1VJ6V739";"";
+"DESIGN";"Header, 14 contacts, pitch 2.54mm x 2.54mm, SMD";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.1.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:10-30082010-065219";"";

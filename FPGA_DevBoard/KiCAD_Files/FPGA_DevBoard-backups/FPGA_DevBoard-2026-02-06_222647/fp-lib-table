@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USB_HUB")(type "KiCad")(uri "${KIPRJMOD}/CAD_Files/USB_HUB/USB_HUB.pretty")(options "")(descr ""))
+  (lib (name "FPGA&MCU")(type "KiCad")(uri "${KIPRJMOD}/CAD_Files/FPGA & MCU/FPGA&MCU.pretty")(options "")(descr ""))
+  (lib (name "FPGA_Interface")(type "KiCad")(uri "${KIPRJMOD}/CAD_Files/INTERFACE/FPGA_Interface.pretty")(options "")(descr ""))
+  (lib (name "NB")(type "KiCad")(uri "${KIPRJMOD}/CAD_Files/NB/NB.pretty")(options "")(descr ""))
+  (lib (name "FPGA_Power")(type "KiCad")(uri "${KIPRJMOD}/CAD_Files/POWER/FPGA_Power.pretty")(options "")(descr ""))
+  (lib (name "SB")(type "KiCad")(uri "${KIPRJMOD}/CAD_Files/SB/SB.pretty")(options "")(descr ""))
+)

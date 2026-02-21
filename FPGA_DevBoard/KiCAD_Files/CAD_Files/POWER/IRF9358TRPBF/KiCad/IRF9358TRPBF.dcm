@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF9358TRPBF
+D Infineon IRF9358TRPBF Dual P-channel MOSFET, 9.2 A, 30 V HEXFET, 8-Pin SOIC
+K
+F https://www.infineon.com/dgdl/Infineon-IRF9358-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a4015356114ffa1da5
+$ENDCMP
+#
+#End Doc Library
