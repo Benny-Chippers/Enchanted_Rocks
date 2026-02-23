@@ -3132,7 +3132,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 134.62) (xy 236.22 134.62)
+			(xy 227.33 134.62) (xy 257.81 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3202,16 +3202,6 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 134.62) (xy 247.65 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67fdd532-8d13-48dc-a7a6-75c404b09135")
-	)
-	(wire
-		(pts
 			(xy 59.69 161.29) (xy 59.69 167.64)
 		)
 		(stroke
@@ -3242,7 +3232,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 85.09) (xy 270.51 85.09)
+			(xy 254 85.09) (xy 280.67 85.09)
 		)
 		(stroke
 			(width 0)
@@ -3310,16 +3300,6 @@
 			(type default)
 		)
 		(uuid "975d5e62-4480-49dc-a21f-bafd4768508c")
-	)
-	(wire
-		(pts
-			(xy 278.13 85.09) (xy 280.67 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a9001d3-07e1-4be2-a3a2-51443c081284")
 	)
 	(wire
 		(pts
@@ -3535,16 +3515,6 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 137.16) (xy 349.25 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cdffe92e-7349-4fc2-919f-6d5cfdf57154")
-	)
-	(wire
-		(pts
 			(xy 57.15 153.67) (xy 57.15 156.21)
 		)
 		(stroke
@@ -3565,16 +3535,6 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 134.62) (xy 257.81 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee9886e0-9d56-4d99-add4-3e3fa481166f")
-	)
-	(wire
-		(pts
 			(xy 41.91 153.67) (xy 41.91 156.21)
 		)
 		(stroke
@@ -3585,7 +3545,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 137.16) (xy 339.09 137.16)
+			(xy 339.09 137.16) (xy 351.79 137.16)
 		)
 		(stroke
 			(width 0)
@@ -5009,73 +4969,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 251.46 134.62 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6090cbfd-da18-4e3e-a4a4-c7799623a9f3")
-		(property "Reference" "R67"
-			(at 247.396 133.604 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 254.762 133.604 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 251.206 135.636 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 251.46 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 251.46 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8b2bba27-3b10-4ea4-bd5d-f660ca56b97d")
-		)
-		(pin "2"
-			(uuid "808a47c9-fedb-49f8-9218-ad3d102ba01e")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/3a4f201e-91d1-46c6-b180-b9c29ee81c31"
-					(reference "R67")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "NB:4677")
 		(at 278.13 53.34 0)
 		(unit 1)
@@ -5208,140 +5101,6 @@
 			(project ""
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/3a4f201e-91d1-46c6-b180-b9c29ee81c31"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 240.03 134.62 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6b13b861-7e68-4301-80a2-306e9c98de86")
-		(property "Reference" "R68"
-			(at 235.966 133.604 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 243.332 133.604 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 239.776 135.636 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 240.03 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 240.03 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4a7bc812-0dd5-41f2-b12a-8f5124ac5180")
-		)
-		(pin "2"
-			(uuid "39d3d74d-8ea0-4254-baec-a0e81d989322")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/3a4f201e-91d1-46c6-b180-b9c29ee81c31"
-					(reference "R68")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 345.44 137.16 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "76eaaf26-820d-4012-beb4-7ce0b36d07b1")
-		(property "Reference" "R66"
-			(at 341.376 136.144 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 348.742 136.144 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 345.186 138.176 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 345.44 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 345.44 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "32f44c3e-c8fc-4271-829c-a62cc113742a")
-		)
-		(pin "2"
-			(uuid "4fe5c7ec-3110-4e3d-8c91-55a0c2967103")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/3a4f201e-91d1-46c6-b180-b9c29ee81c31"
-					(reference "R66")
 					(unit 1)
 				)
 			)
@@ -6508,73 +6267,6 @@
 			(project ""
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/3a4f201e-91d1-46c6-b180-b9c29ee81c31"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 274.32 85.09 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fea512a7-d876-4ecb-a195-d8d025bc0f37")
-		(property "Reference" "R69"
-			(at 270.256 84.074 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 277.622 84.074 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 274.066 86.106 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 274.32 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 274.32 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3e9c71b6-c841-4f2d-a108-7c4d0fa38751")
-		)
-		(pin "2"
-			(uuid "da89b4c7-02e6-4e87-bad0-a7cf1e37da08")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/3a4f201e-91d1-46c6-b180-b9c29ee81c31"
-					(reference "R69")
 					(unit 1)
 				)
 			)

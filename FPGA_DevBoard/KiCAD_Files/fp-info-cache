@@ -1,4 +1,4 @@
-26707240739970759
+26709012564269237
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61424,6 +61424,13 @@ XC7S50-1FTGB196C
 0
 196
 196
+FPGA&MCU
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR
+
+
+0
+6
+6
 FPGA&MCU
 XC7S15_FTGB196_AMD
 
