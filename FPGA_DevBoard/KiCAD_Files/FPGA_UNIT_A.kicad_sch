@@ -5,6 +5,126 @@
 	(uuid "e4278007-f2bd-42ef-8136-f875516efea6")
 	(paper "A3")
 	(lib_symbols
+		(symbol "Connector:TestPoint_Probe"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 1.651 5.842 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint_Probe"
+				(at 1.651 4.064 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point (alternative probe-style design)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_Probe_0_1"
+				(polyline
+					(pts
+						(xy 1.27 0.762) (xy 0 0) (xy 0.762 1.27) (xy 1.27 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.397 0.635) (xy 0.635 1.397) (xy 2.413 3.175) (xy 3.175 2.413) (xy 1.397 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "TestPoint_Probe_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 0)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -5113,6 +5233,12 @@
 		(uuid "2bf488f8-6ed1-446d-a4f1-09a0d9a73ae2")
 	)
 	(junction
+		(at 24.13 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3428349e-f775-4b9f-949a-2c7e2e3e34a7")
+	)
+	(junction
 		(at 113.03 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5618,6 +5744,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 38.1) (xy 27.94 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35895b70-cd07-4146-8901-347863d3aaa5")
+	)
+	(wire
+		(pts
 			(xy 43.18 196.85) (xy 31.75 196.85)
 		)
 		(stroke
@@ -5758,6 +5894,16 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 60.96) (xy 129.54 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58df589e-92b6-4429-a110-cfc9bbd77a06")
+	)
+	(wire
+		(pts
 			(xy 45.72 210.82) (xy 59.69 210.82)
 		)
 		(stroke
@@ -5875,6 +6021,16 @@
 			(type default)
 		)
 		(uuid "6e79ad21-5146-4b43-a365-397694218c28")
+	)
+	(wire
+		(pts
+			(xy 139.7 111.76) (xy 129.54 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71037436-8ccb-461b-9a95-91bf63a46a36")
 	)
 	(wire
 		(pts
@@ -6228,7 +6384,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 38.1) (xy 27.94 38.1)
+			(xy 21.59 38.1) (xy 24.13 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7666,6 +7822,16 @@
 		)
 		(uuid "37a7c362-0860-4697-b165-941a59a19b20")
 	)
+	(label "VCCO_34"
+		(at 138.43 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "39192599-10fd-4b15-b0c8-842e8a6d6595")
+	)
 	(label "VCCBRAM"
 		(at 139.7 76.2 0)
 		(effects
@@ -7757,7 +7923,7 @@
 		(uuid "6fb510f5-1385-4ee5-99c4-367afa586d54")
 	)
 	(label "VCCINT"
-		(at 129.54 111.76 0)
+		(at 139.7 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8205,6 +8371,73 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/f7a80be1-c773-4d61-a2a3-9f7c03a69ae0"
 					(reference "#PWR0143")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Probe")
+		(at 24.13 38.1 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "10a91903-ae69-4b64-91ee-a4efee155bbf")
+		(property "Reference" "TP3"
+			(at 21.336 29.972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Probe"
+			(at 24.384 32.258 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 19.05 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 19.05 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point (alternative probe-style design)"
+			(at 24.13 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f566578-daa1-4d73-b9c3-35b27dd8d30a")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/f7a80be1-c773-4d61-a2a3-9f7c03a69ae0"
+					(reference "TP3")
 					(unit 1)
 				)
 			)
