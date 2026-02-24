@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.254,
-          "height": 0.508,
-          "width": 0.508
+          "drill": 0.6,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -66,6 +66,174 @@
         [
           "annular_width|55040000|98255000|507746fb-e21e-4fc6-be2f-e62193ad57cf|00000000-0000-0000-0000-000000000000",
           "Mounting hole, annular ring doesnt matter"
+        ],
+        [
+          "clearance|119406300|35236111|6e51a581-23e4-4e1b-a858-44a4aac85214|42184fc2-4d5d-4800-8f19-dea25d34faea",
+          "Thermal disipation through hole"
+        ],
+        [
+          "clearance|119406300|36023511|6e51a581-23e4-4e1b-a858-44a4aac85214|4a05f96f-e4be-4652-810f-ba7ac5a5dd18",
+          "Thermal disipation through hole"
+        ],
+        [
+          "clearance|120650000|36479811|6e51a581-23e4-4e1b-a858-44a4aac85214|c6e9df3f-9bd1-4510-8377-fd80f6e45962",
+          "Thermal disipation through hole"
+        ],
+        [
+          "clearance|121106300|35236111|6e51a581-23e4-4e1b-a858-44a4aac85214|842114e3-bb51-4056-ad79-8adb1283550f",
+          "Thermal disipation through hole"
+        ],
+        [
+          "copper_edge_clearance|162000000|42380000|b4201ea5-aed5-4be0-9568-ed1c8e7f9328|058d3b4d-8846-4c1f-978b-76721899ba7e",
+          "Needs to be this close due to it holding a connector"
+        ],
+        [
+          "copper_edge_clearance|162000000|51020000|84149a7b-2886-4fd6-a676-5f18743eff42|0c534267-dff4-4572-8d85-2649a9289b05",
+          "Needs to be this close due to it holding a connector"
+        ],
+        [
+          "copper_edge_clearance|51850046|31973589|69bdec38-7f69-4e1f-951f-676d27c40556|57c7ea10-0528-432f-8c2d-5b1eb3946c31",
+          "Needs to be this close due to it holding a connector"
+        ],
+        [
+          "copper_edge_clearance|60490000|31573554|eb143ea7-9995-473a-806a-d35937975d2d|692396fe-0980-454b-918c-04aa65975220",
+          "Needs to be this close due to it holding a connector"
+        ],
+        [
+          "lib_footprint_mismatch|136000000|78405000|7bab6f71-907e-44de-a3e5-d59691b3ca4c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|147014000|50750000|d38d730c-5d99-450e-83a3-7848b95cc397|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|49331350|110750000|1c591cd2-3dd0-4b5d-ad5f-d95bda3a7520|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "padstack|55040000|123245000|13acfebe-adef-474b-acfa-9cc50d05dd11|00000000-0000-0000-0000-000000000000",
+          "its a support hole, not suppost to have copper"
+        ],
+        [
+          "padstack|55040000|98255000|507746fb-e21e-4fc6-be2f-e62193ad57cf|00000000-0000-0000-0000-000000000000",
+          "its a support hole, not suppost to have copper"
+        ],
+        [
+          "silk_edge_clearance|50987500|146500000|e8a8574d-b44c-4e56-8235-471def1a1f86|5da7a193-5207-4747-a518-fe5a739ac860",
+          "this is fine, its suppost to hang over"
+        ],
+        [
+          "silk_edge_clearance|65487500|146500000|e8a8574d-b44c-4e56-8235-471def1a1f86|539c57e1-4f33-43c8-b405-023b619208e8",
+          "this is fine, its suppost to hang over"
+        ],
+        [
+          "silk_edge_clearance|67650000|146500000|e8a8574d-b44c-4e56-8235-471def1a1f86|c039a611-323f-4c96-92c4-1efec8ac0c94",
+          "this is fine, its suppost to hang over"
+        ],
+        [
+          "silk_edge_clearance|82150000|146500000|e8a8574d-b44c-4e56-8235-471def1a1f86|774fc6f7-5b56-43db-b619-85134ed8228e",
+          "this is fine, its suppost to hang over"
+        ],
+        [
+          "solder_mask_bridge|119406300|35236111|6e51a581-23e4-4e1b-a858-44a4aac85214|42184fc2-4d5d-4800-8f19-dea25d34faea",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|119406300|36023511|6e51a581-23e4-4e1b-a858-44a4aac85214|4a05f96f-e4be-4652-810f-ba7ac5a5dd18",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|119662600|35236111|93e79f65-5ddf-455a-83c0-d9a2efa8bd89|24a1d6e7-fb60-4150-ab7c-7b8aa36bb072",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|119662600|36023511|93e79f65-5ddf-455a-83c0-d9a2efa8bd89|24a1d6e7-fb60-4150-ab7c-7b8aa36bb072",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|119862600|35036111|3974e0c8-43e8-41d9-b19e-599b39d8c38a|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|119862600|35436111|0c5c66e1-e22d-4a92-b922-904b91909d5e|24a1d6e7-fb60-4150-ab7c-7b8aa36bb072",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|119862600|35823511|0c5c66e1-e22d-4a92-b922-904b91909d5e|24a1d6e7-fb60-4150-ab7c-7b8aa36bb072",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|119862600|36223511|bd1bf8eb-5255-46c3-bf3d-4021576313c8|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120062600|35236111|1d29f0f1-c382-4757-9006-e0ebd6fea806|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120062600|36023511|1d29f0f1-c382-4757-9006-e0ebd6fea806|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120450000|35236111|1d29f0f1-c382-4757-9006-e0ebd6fea806|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120450000|36023511|1d29f0f1-c382-4757-9006-e0ebd6fea806|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120650000|35036111|3974e0c8-43e8-41d9-b19e-599b39d8c38a|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120650000|35436111|0c5c66e1-e22d-4a92-b922-904b91909d5e|24a1d6e7-fb60-4150-ab7c-7b8aa36bb072",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120650000|35823511|0c5c66e1-e22d-4a92-b922-904b91909d5e|24a1d6e7-fb60-4150-ab7c-7b8aa36bb072",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120650000|36223511|bd1bf8eb-5255-46c3-bf3d-4021576313c8|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120650000|36479811|6e51a581-23e4-4e1b-a858-44a4aac85214|c6e9df3f-9bd1-4510-8377-fd80f6e45962",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120850000|35236111|988eeb09-346c-4906-aa17-8e375532b77c|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|120850000|36023511|988eeb09-346c-4906-aa17-8e375532b77c|6e51a581-23e4-4e1b-a858-44a4aac85214",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|121106300|35236111|6e51a581-23e4-4e1b-a858-44a4aac85214|842114e3-bb51-4056-ad79-8adb1283550f",
+          "\"V\" net is disconnected and is for thermal relief so this is not an issue"
+        ],
+        [
+          "solder_mask_bridge|162250000|89900000|76a24934-7b8b-4413-a025-b5d70538e418|af85676d-401c-439d-a55b-0fc4c126b5ed",
+          "using the given footprint for the device, so this isnt cause for alarm"
+        ],
+        [
+          "unconnected_items|162000000|42680000|F.Cu|4|058d3b4d-8846-4c1f-978b-76721899ba7e|ec612e76-233f-46c6-834f-994930125ea8",
+          "Not sure why but it doesnt matter, otehr shell GNDs are connected"
+        ],
+        [
+          "unconnected_items|162000000|51320000|F.Cu|4|0c534267-dff4-4572-8d85-2649a9289b05|ec612e76-233f-46c6-834f-994930125ea8",
+          "Not sure why but it doesnt matter, otehr shell GNDs are connected"
+        ],
+        [
+          "unconnected_items|51349500|31247632|F.Cu|4|b2e4447a-63b9-4890-bb7a-2f859080714c|57c7ea10-0528-432f-8c2d-5b1eb3946c31",
+          "Not sure why but it doesnt matter, otehr shell GNDs are connected"
+        ],
+        [
+          "unconnected_items|61590500|31415691|F.Cu|4|b2e4447a-63b9-4890-bb7a-2f859080714c|692396fe-0980-454b-918c-04aa65975220",
+          "Not sure why but it doesnt matter, otehr shell GNDs are connected"
         ]
       ],
       "meta": {
