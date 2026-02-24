@@ -7595,8 +7595,8 @@
 		(uuid "59c99cb3-6f45-427d-8dcb-4754a89e1fe8")
 	)
 	(no_connect
-		(at 393.7 187.96)
-		(uuid "c2a54e33-d4b1-4fbf-bcf1-a48800325c01")
+		(at 372.11 227.33)
+		(uuid "bde1fc35-07bc-41e5-8c9d-a8a177a2e970")
 	)
 	(no_connect
 		(at 83.82 123.19)
@@ -7611,6 +7611,10 @@
 		(uuid "d6a9954a-bcda-46e4-b60b-e23254c64716")
 	)
 	(no_connect
+		(at 388.62 227.33)
+		(uuid "d97efcc2-08df-42d4-9a36-296cf6393acd")
+	)
+	(no_connect
 		(at 83.82 128.27)
 		(uuid "dd7f48a6-194e-48eb-b8ec-d1ac92a30eb4")
 	)
@@ -7623,6 +7627,26 @@
 			(type default)
 		)
 		(uuid "002df608-c177-4412-9af0-05da215821e5")
+	)
+	(wire
+		(pts
+			(xy 372.11 217.17) (xy 359.41 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "003cea0e-6daa-4e91-a1ad-02f85f4a064b")
+	)
+	(wire
+		(pts
+			(xy 388.62 143.51) (xy 401.32 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01156f71-12ca-4d43-b461-3893a6d3cc75")
 	)
 	(wire
 		(pts
@@ -7666,6 +7690,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 146.05) (xy 359.41 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08eaa84b-563b-4dae-9d7e-4dbf4597574e")
+	)
+	(wire
+		(pts
 			(xy 294.64 119.38) (xy 328.93 119.38)
 		)
 		(stroke
@@ -7696,6 +7730,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 214.63) (xy 401.32 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e833dbc-27ce-43b8-8af1-a573437511fc")
+	)
+	(wire
+		(pts
 			(xy 260.35 73.66) (xy 260.35 76.2)
 		)
 		(stroke
@@ -7703,6 +7747,16 @@
 			(type default)
 		)
 		(uuid "0e94c521-4135-408e-9ec6-9e836967e145")
+	)
+	(wire
+		(pts
+			(xy 372.11 166.37) (xy 359.41 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10a18f1f-28bc-4f03-a5ab-61253dfb97d6")
 	)
 	(wire
 		(pts
@@ -7746,6 +7800,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 85.09) (xy 359.41 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14bfd55f-6d4f-4210-b9e0-102c5def7461")
+	)
+	(wire
+		(pts
 			(xy 260.35 73.66) (xy 264.16 73.66)
 		)
 		(stroke
@@ -7766,6 +7830,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 125.73) (xy 401.32 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19f22d7a-b92d-4213-88d2-b543bda694ec")
+	)
+	(wire
+		(pts
 			(xy 279.4 187.96) (xy 287.02 187.96)
 		)
 		(stroke
@@ -7773,6 +7847,16 @@
 			(type default)
 		)
 		(uuid "1af90dcb-29d5-4594-ac3b-4856b0d9a1ad")
+	)
+	(wire
+		(pts
+			(xy 372.11 113.03) (xy 359.41 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b079e7c-5d76-4c72-9e0f-0ac125736e8c")
 	)
 	(wire
 		(pts
@@ -7803,6 +7887,26 @@
 			(type default)
 		)
 		(uuid "1e41117a-b0e5-41fa-9916-acc299f86a90")
+	)
+	(wire
+		(pts
+			(xy 388.62 105.41) (xy 401.32 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20d4e2f8-497f-4e35-8a30-c1fb957618cc")
+	)
+	(wire
+		(pts
+			(xy 388.62 115.57) (xy 401.32 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "214c11b5-6cee-4702-aec7-849f91a74816")
 	)
 	(wire
 		(pts
@@ -7846,6 +7950,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 146.05) (xy 401.32 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2585958e-3fec-4c7b-84ce-debaafc10070")
+	)
+	(wire
+		(pts
 			(xy 266.7 44.45) (xy 264.16 44.45)
 		)
 		(stroke
@@ -7856,6 +7970,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 92.71) (xy 359.41 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26c467fa-e156-4295-8a52-4e1268997ea6")
+	)
+	(wire
+		(pts
 			(xy 279.4 142.24) (xy 287.02 142.24)
 		)
 		(stroke
@@ -7863,6 +7987,36 @@
 			(type default)
 		)
 		(uuid "2ac3b6c9-11c8-4914-91f3-1a73620030bf")
+	)
+	(wire
+		(pts
+			(xy 388.62 184.15) (xy 401.32 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ac71051-14f3-4192-9797-1c092a403ae1")
+	)
+	(wire
+		(pts
+			(xy 372.11 74.93) (xy 359.41 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b702d3a-c37a-4def-b6b6-443687b0b4a9")
+	)
+	(wire
+		(pts
+			(xy 372.11 207.01) (xy 359.41 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c67b6b8-d041-4c16-aa91-17b5202a7b57")
 	)
 	(wire
 		(pts
@@ -7886,6 +8040,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 123.19) (xy 359.41 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d9eb45f-ffbc-41d7-90b0-40479f84f262")
+	)
+	(wire
+		(pts
 			(xy 240.03 44.45) (xy 252.73 44.45)
 		)
 		(stroke
@@ -7903,6 +8067,16 @@
 			(type default)
 		)
 		(uuid "2ed4652c-b465-43fc-be37-2065a7f038dd")
+	)
+	(wire
+		(pts
+			(xy 372.11 102.87) (xy 359.41 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3237c51c-4dca-4ab3-b5b4-63cbeedbb7ba")
 	)
 	(wire
 		(pts
@@ -7936,6 +8110,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 186.69) (xy 359.41 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3640c139-ba93-48a7-b8fb-9511d6e223f2")
+	)
+	(wire
+		(pts
 			(xy 294.64 177.8) (xy 328.93 177.8)
 		)
 		(stroke
@@ -7943,6 +8127,16 @@
 			(type default)
 		)
 		(uuid "36d59146-652b-44ac-825b-3b816869c124")
+	)
+	(wire
+		(pts
+			(xy 388.62 176.53) (xy 401.32 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a1f742a-0675-42ad-a46c-1c5ef5e90aa6")
 	)
 	(wire
 		(pts
@@ -7956,6 +8150,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 133.35) (xy 401.32 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bce8c3c-7893-45e5-beb1-9cdc1513fab5")
+	)
+	(wire
+		(pts
 			(xy 55.88 49.53) (xy 64.77 49.53)
 		)
 		(stroke
@@ -7963,6 +8167,26 @@
 			(type default)
 		)
 		(uuid "3e844635-d397-4557-a2da-75d046ddc467")
+	)
+	(wire
+		(pts
+			(xy 388.62 186.69) (xy 401.32 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4063483c-1988-4170-88b1-9be883d083c8")
+	)
+	(wire
+		(pts
+			(xy 372.11 156.21) (xy 359.41 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "416d88f2-1578-4a2a-8c0b-2999f96c2ce8")
 	)
 	(wire
 		(pts
@@ -7993,6 +8217,16 @@
 			(type default)
 		)
 		(uuid "434f6b91-edaa-40de-ad02-ae36bc85299d")
+	)
+	(wire
+		(pts
+			(xy 388.62 194.31) (xy 401.32 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4398d451-3399-4522-9787-1c4271af7c9e")
 	)
 	(wire
 		(pts
@@ -8176,6 +8410,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 95.25) (xy 359.41 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5911a20a-3c0a-4f25-b2b8-d3810ab8b588")
+	)
+	(wire
+		(pts
 			(xy 69.85 54.61) (xy 60.96 54.61)
 		)
 		(stroke
@@ -8193,6 +8437,16 @@
 			(type default)
 		)
 		(uuid "59d5dbcb-4a0c-4b95-928f-76e576b5b8af")
+	)
+	(wire
+		(pts
+			(xy 388.62 234.95) (xy 401.32 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a3c437c-652e-4c44-bda6-3f0e6e6b9ddb")
 	)
 	(wire
 		(pts
@@ -8246,6 +8500,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 135.89) (xy 401.32 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "627d6ac1-6936-4830-b3ff-227322961afe")
+	)
+	(wire
+		(pts
 			(xy 26.67 182.88) (xy 27.94 182.88)
 		)
 		(stroke
@@ -8286,6 +8550,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 196.85) (xy 401.32 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b86088f-1626-4e4c-9226-433dbf499754")
+	)
+	(wire
+		(pts
 			(xy 269.24 114.3) (xy 287.02 114.3)
 		)
 		(stroke
@@ -8293,6 +8567,36 @@
 			(type default)
 		)
 		(uuid "6f51cf1d-d1ad-49fb-9620-12bdc2bd599a")
+	)
+	(wire
+		(pts
+			(xy 372.11 135.89) (xy 359.41 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f7d5537-dc63-4cf8-924a-5298483669e4")
+	)
+	(wire
+		(pts
+			(xy 372.11 224.79) (xy 359.41 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ff3bf75-4f61-4b15-80d9-331f26296320")
+	)
+	(wire
+		(pts
+			(xy 372.11 234.95) (xy 359.41 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71fffb16-b311-4d3a-85d4-9491354521a8")
 	)
 	(wire
 		(pts
@@ -8306,6 +8610,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 214.63) (xy 359.41 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "782b5574-179a-4682-a62c-6af6026f6aa7")
+	)
+	(wire
+		(pts
 			(xy 26.67 193.04) (xy 27.94 193.04)
 		)
 		(stroke
@@ -8316,6 +8630,26 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 166.37) (xy 401.32 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b59a7aa-8a7f-4b05-9f2b-2f5deb09aa93")
+	)
+	(wire
+		(pts
+			(xy 372.11 163.83) (xy 359.41 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f3a3491-df54-45cc-9668-e480b4f5b0b3")
+	)
+	(wire
+		(pts
 			(xy 294.64 144.78) (xy 328.93 144.78)
 		)
 		(stroke
@@ -8323,6 +8657,16 @@
 			(type default)
 		)
 		(uuid "803aa283-bff3-4924-beb3-c7316e40ba81")
+	)
+	(wire
+		(pts
+			(xy 372.11 143.51) (xy 359.41 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81bed8e5-f433-435d-b4c9-49419d7dd66c")
 	)
 	(wire
 		(pts
@@ -8396,6 +8740,26 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 224.79) (xy 401.32 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d814673-11cb-438b-be1f-6cfecb2a4aa8")
+	)
+	(wire
+		(pts
+			(xy 388.62 173.99) (xy 401.32 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f13c429-7e8b-4380-b677-8412253680f1")
+	)
+	(wire
+		(pts
 			(xy 294.64 167.64) (xy 328.93 167.64)
 		)
 		(stroke
@@ -8426,6 +8790,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 204.47) (xy 359.41 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94030784-004c-4e22-8cfb-a6f5fac5f08e")
+	)
+	(wire
+		(pts
 			(xy 266.7 62.23) (xy 287.02 62.23)
 		)
 		(stroke
@@ -8436,6 +8810,26 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 153.67) (xy 401.32 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9491dbd1-d1a9-484a-a634-9072aa4b0960")
+	)
+	(wire
+		(pts
+			(xy 388.62 156.21) (xy 401.32 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9768472a-e35f-4817-aa29-6eece7b65b7e")
+	)
+	(wire
+		(pts
 			(xy 64.77 49.53) (xy 83.82 49.53)
 		)
 		(stroke
@@ -8443,6 +8837,16 @@
 			(type default)
 		)
 		(uuid "9891f62b-0553-4dde-8293-7be7c30a8c03")
+	)
+	(wire
+		(pts
+			(xy 372.11 173.99) (xy 359.41 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4358869-6559-428e-ad7b-31bcc01edf6e")
 	)
 	(wire
 		(pts
@@ -8476,6 +8880,26 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 102.87) (xy 401.32 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8fa40af-1855-4c91-ac91-9e2757d7aa8d")
+	)
+	(wire
+		(pts
+			(xy 388.62 207.01) (xy 401.32 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a99593ed-4299-42fa-8c1f-360c3973e71a")
+	)
+	(wire
+		(pts
 			(xy 294.64 180.34) (xy 328.93 180.34)
 		)
 		(stroke
@@ -8483,6 +8907,16 @@
 			(type default)
 		)
 		(uuid "aacbd533-730b-45b5-9477-28d77a4a3306")
+	)
+	(wire
+		(pts
+			(xy 372.11 105.41) (xy 359.41 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad20d045-9270-43ad-9f6b-714007abcb4a")
 	)
 	(wire
 		(pts
@@ -8506,6 +8940,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 163.83) (xy 401.32 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b644a348-affc-4efb-9047-4cd9f72b1e4a")
+	)
+	(wire
+		(pts
 			(xy 294.64 157.48) (xy 328.93 157.48)
 		)
 		(stroke
@@ -8513,6 +8957,26 @@
 			(type default)
 		)
 		(uuid "b75165ea-22f8-44cb-9754-cac97a30069a")
+	)
+	(wire
+		(pts
+			(xy 388.62 113.03) (xy 401.32 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8454b3c-0baa-4f00-9157-7ac8583f6f4c")
+	)
+	(wire
+		(pts
+			(xy 372.11 176.53) (xy 359.41 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8c044ce-3acb-402c-a78e-380050335b1f")
 	)
 	(wire
 		(pts
@@ -8546,6 +9010,26 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 125.73) (xy 359.41 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb9e2dad-2996-4743-b035-7d9fb23f3133")
+	)
+	(wire
+		(pts
+			(xy 388.62 123.19) (xy 401.32 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcaef945-1a80-40ec-8b8f-b831f21f19f2")
+	)
+	(wire
+		(pts
 			(xy 279.4 172.72) (xy 287.02 172.72)
 		)
 		(stroke
@@ -8563,6 +9047,36 @@
 			(type default)
 		)
 		(uuid "c05d8543-17a7-4eaa-ba6e-71fe9ba410cd")
+	)
+	(wire
+		(pts
+			(xy 372.11 82.55) (xy 359.41 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c159f956-f4d8-4d06-8d5b-fd2343751777")
+	)
+	(wire
+		(pts
+			(xy 372.11 184.15) (xy 359.41 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c34faee2-a4fd-47c2-a463-009300b5af71")
+	)
+	(wire
+		(pts
+			(xy 372.11 153.67) (xy 359.41 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c36416f0-a156-4bbb-a73e-3cca17cecca8")
 	)
 	(wire
 		(pts
@@ -8643,6 +9157,16 @@
 			(type default)
 		)
 		(uuid "cfbabb9f-eb43-4bb1-989d-181afdd5d27c")
+	)
+	(wire
+		(pts
+			(xy 372.11 133.35) (xy 359.41 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d117788a-a5ee-410c-b67c-4208ebc39c3d")
 	)
 	(wire
 		(pts
@@ -8766,6 +9290,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 194.31) (xy 359.41 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e557f170-8579-416b-a383-e0a0738670a3")
+	)
+	(wire
+		(pts
 			(xy 228.6 125.73) (xy 215.9 125.73)
 		)
 		(stroke
@@ -8806,6 +9340,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 204.47) (xy 401.32 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec678f28-9668-4f25-ae86-2ace1b09c766")
+	)
+	(wire
+		(pts
 			(xy 279.4 167.64) (xy 287.02 167.64)
 		)
 		(stroke
@@ -8813,6 +9357,16 @@
 			(type default)
 		)
 		(uuid "ed2ca164-e700-487d-9029-bd374dca8379")
+	)
+	(wire
+		(pts
+			(xy 372.11 115.57) (xy 359.41 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed2e2dd5-7703-4ee7-a76b-2a2227ef2e5b")
 	)
 	(wire
 		(pts
@@ -8846,6 +9400,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 196.85) (xy 359.41 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6c45db9-831b-4d48-abda-01e2b3dd4973")
+	)
+	(wire
+		(pts
 			(xy 279.4 132.08) (xy 287.02 132.08)
 		)
 		(stroke
@@ -8863,6 +9427,16 @@
 			(type default)
 		)
 		(uuid "f95de4b1-a007-48aa-93c1-a11d5e5a4686")
+	)
+	(wire
+		(pts
+			(xy 388.62 217.17) (xy 401.32 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9d491a2-892f-4bfa-a9ca-847067a22a8c")
 	)
 	(wire
 		(pts
@@ -8904,16 +9478,6 @@
 		)
 		(uuid "0be22058-f9f2-4b31-b82d-508841fad44a")
 	)
-	(label "GPIO_OUT_19"
-		(at 377.19 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0ca52008-fbdc-4a1f-be24-3f5e47cd476a")
-	)
 	(label "GPIO_26"
 		(at 215.9 130.81 0)
 		(effects
@@ -8954,25 +9518,35 @@
 		)
 		(uuid "12c4b1ee-e919-49f8-b5f2-b68b4a0eab60")
 	)
-	(label "GPIO_OUT_20"
-		(at 393.7 127 0)
+	(label "GPIO_OUT_19"
+		(at 401.32 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "150ccf0b-122e-47fe-bab8-6578906a7bcf")
+		(uuid "17db7bbf-ad96-4e08-958c-383b6157801b")
 	)
-	(label "GPIO_OUT_28"
-		(at 393.7 167.64 0)
+	(label "GPIO_OUT_25"
+		(at 401.32 204.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1bb049e1-c949-487f-aca0-a08b9afbb073")
+	)
+	(label "GPIO_OUT_9"
+		(at 359.41 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "1b32e347-80f7-491d-ba59-4ab206eaf419")
+		(uuid "1bfbdf60-b0d7-4008-a5a8-96f27d12986c")
 	)
 	(label "VCCAUX"
 		(at 227.33 146.05 0)
@@ -9014,6 +9588,16 @@
 		)
 		(uuid "20569367-6fe1-4454-9d29-101b253214f3")
 	)
+	(label "GPIO_OUT_24"
+		(at 401.32 186.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "21f5a1ea-f42b-498f-bc01-dc19e981455b")
+	)
 	(label "GPIO_OUT_25"
 		(at 318.77 172.72 180)
 		(effects
@@ -9023,6 +9607,16 @@
 			(justify right bottom)
 		)
 		(uuid "232e4d03-207f-44f0-b413-0c375cfadca6")
+	)
+	(label "GPIO_OUT_7"
+		(at 401.32 113.03 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "236b51a5-bde0-4137-8a24-bb109a724249")
 	)
 	(label "VCCO_34"
 		(at 83.82 62.23 180)
@@ -9034,15 +9628,15 @@
 		)
 		(uuid "2398ea67-c0fe-4d83-b626-27b5ed432678")
 	)
-	(label "GPIO_OUT_18"
-		(at 393.7 116.84 0)
+	(label "GPIO_OUT_28"
+		(at 359.41 207.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "2457b4cb-a7f1-4067-9af0-1d3b601eecb6")
+		(uuid "23a6f99e-472e-4710-ac4f-9b80891dcadc")
 	)
 	(label "GPIO_9"
 		(at 215.9 118.11 0)
@@ -9064,6 +9658,16 @@
 		)
 		(uuid "2ab7af63-c918-4891-90ee-d67112c43817")
 	)
+	(label "GPIO_OUT_8"
+		(at 401.32 115.57 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2d3280c0-5be2-405f-ac7e-2aab7eea5a28")
+	)
 	(label "VCCO_0"
 		(at 26.67 193.04 180)
 		(effects
@@ -9073,6 +9677,26 @@
 			(justify right bottom)
 		)
 		(uuid "2d65d25d-4628-4f15-9d6b-bc0d2d7b8e51")
+	)
+	(label "GPIO_OUT_31"
+		(at 359.41 234.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e5ec270-0c21-42c7-b793-599ed322e7bf")
+	)
+	(label "GPIO_OUT_27"
+		(at 401.32 214.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2ec07600-eebc-4fe8-91d2-899f5207b5d1")
 	)
 	(label "GPIO_13"
 		(at 279.4 142.24 180)
@@ -9084,6 +9708,16 @@
 		)
 		(uuid "2ee7255c-15da-4056-86a7-bd875e105b6c")
 	)
+	(label "GPIO_OUT_3"
+		(at 359.41 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "30652ed2-a2eb-45ed-90df-f7b341f86d20")
+	)
 	(label "GPIO_9"
 		(at 279.4 132.08 180)
 		(effects
@@ -9094,15 +9728,25 @@
 		)
 		(uuid "33141b40-7ec5-451f-b5f4-5975890c56d8")
 	)
-	(label "GPIO_OUT_1"
-		(at 393.7 109.22 0)
+	(label "GPIO_OUT_14"
+		(at 401.32 146.05 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3397ea53-e86d-49d6-b68f-6ec7f699829a")
+	)
+	(label "GPIO_OUT_27"
+		(at 359.41 214.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "35171940-98df-471e-a8d6-22f3c114cfca")
+		(uuid "3427006f-9be2-432d-b4aa-67b5c062376a")
 	)
 	(label "VCCAUX"
 		(at 83.82 34.29 180)
@@ -9113,6 +9757,16 @@
 			(justify right bottom)
 		)
 		(uuid "37ccdbaa-c607-4206-afbc-3f9ea50f038f")
+	)
+	(label "GPIO_OUT_30"
+		(at 401.32 217.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "37d176e9-6b5a-4f54-9d37-cb2c0cf75e8b")
 	)
 	(label "GPIO_OUT_21"
 		(at 318.77 162.56 180)
@@ -9144,25 +9798,15 @@
 		)
 		(uuid "3c0340e4-a549-443c-a150-530ededd5609")
 	)
-	(label "GPIO_OUT_7"
-		(at 393.7 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3d5fd9a4-2eaf-4fa8-a620-dacb52677102")
-	)
-	(label "GPIO_OUT_8"
-		(at 377.19 149.86 180)
+	(label "GPIO_OUT_29"
+		(at 401.32 224.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "400a6377-0a7d-4d4d-9d34-ee3f61c5cc2f")
+		(uuid "422fc6c0-c4b5-45a4-ba8e-213187fe676a")
 	)
 	(label "VCCO_0"
 		(at 83.82 72.39 180)
@@ -9183,6 +9827,26 @@
 			(justify right bottom)
 		)
 		(uuid "456c1521-6fe1-42e7-8111-e26c2b6a5c4f")
+	)
+	(label "GPIO_OUT_25"
+		(at 359.41 204.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "457272c9-c954-4ad2-a3ef-55b89830f639")
+	)
+	(label "GPIO_OUT_5"
+		(at 401.32 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "45a7af75-2485-4cb1-b18f-d255d7f03acb")
 	)
 	(label "GPIO_OUT_1"
 		(at 318.77 111.76 180)
@@ -9214,15 +9878,15 @@
 		)
 		(uuid "4b5300e9-0df7-4a44-9f14-e244adc7ec85")
 	)
-	(label "GPIO_OUT_4"
-		(at 377.19 129.54 180)
+	(label "GPIO_OUT_12"
+		(at 401.32 135.89 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "4ce3d779-6e62-4a58-8ce5-12a525672bb3")
+		(uuid "4c356be1-db34-4d8c-ae26-0434a3811657")
 	)
 	(label "HSYNC"
 		(at 287.02 87.63 180)
@@ -9243,16 +9907,6 @@
 			(justify right bottom)
 		)
 		(uuid "4dd50736-2584-4084-94d2-e01dffc931fb")
-	)
-	(label "GPIO_OUT_5"
-		(at 393.7 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4ec3739a-027b-4e31-aa6e-02290fad9144")
 	)
 	(label "GPIO_OUT_20"
 		(at 318.77 160.02 180)
@@ -9294,6 +9948,16 @@
 		)
 		(uuid "576d3fe0-49f5-4b9b-a2a7-6476310d4e13")
 	)
+	(label "GPIO_OUT_6"
+		(at 359.41 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "57849511-fd38-47f4-9f63-882a0cb8f24b")
+	)
 	(label "GPIO_OUT_24"
 		(at 318.77 170.18 180)
 		(effects
@@ -9303,6 +9967,16 @@
 			(justify right bottom)
 		)
 		(uuid "582053f2-5be4-4efd-8ce1-4c2e096e1e10")
+	)
+	(label "GPIO_OUT_21"
+		(at 359.41 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "58917c04-1f91-4920-8a25-e779a3e759f1")
 	)
 	(label "GPIO_OUT_3"
 		(at 318.77 116.84 180)
@@ -9314,15 +9988,15 @@
 		)
 		(uuid "5918c24d-a805-429c-8d2c-411519529111")
 	)
-	(label "GPIO_OUT_15"
-		(at 393.7 180.34 0)
+	(label "GPIO_OUT_5"
+		(at 359.41 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "5a5c10e8-e729-462d-949b-002ec66b6691")
+		(uuid "59da4f90-dbe1-4bf1-97b2-ca128456bf93")
 	)
 	(label "GPIO_23"
 		(at 215.9 97.79 0)
@@ -9333,6 +10007,26 @@
 			(justify left bottom)
 		)
 		(uuid "5aad1303-9b6a-45df-bc60-4f26cf64cfc5")
+	)
+	(label "GPIO_OUT_28"
+		(at 401.32 207.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5fdcded9-4586-4980-b019-10472555d643")
+	)
+	(label "GPIO_OUT_6"
+		(at 401.32 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6108887e-7c3f-4a68-a6cc-6af1ff8a862e")
 	)
 	(label "GPIO_11"
 		(at 215.9 135.89 0)
@@ -9364,15 +10058,25 @@
 		)
 		(uuid "627336f9-8585-4f59-8e62-f9c2ba32fdcc")
 	)
-	(label "GPIO_OUT_21"
-		(at 377.19 137.16 180)
+	(label "GPIO_OUT_13"
+		(at 359.41 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "64180239-a5cd-49dc-8f76-f1d6b48d195c")
+		(uuid "63b2d370-de7f-4f07-b126-ee9d80a82346")
+	)
+	(label "GPIO_OUT_30"
+		(at 359.41 217.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "63d6fa51-28ab-452a-a06d-fb3884308079")
 	)
 	(label "GPIO_11"
 		(at 279.4 137.16 180)
@@ -9384,6 +10088,16 @@
 		)
 		(uuid "646d0de9-8caf-4f07-9bf6-d904d68a74ba")
 	)
+	(label "GPIO_OUT_19"
+		(at 359.41 173.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "64f77049-48ae-4888-8ab9-5e8a0011412a")
+	)
 	(label "VCCO_0"
 		(at 59.69 74.93 180)
 		(effects
@@ -9394,25 +10108,15 @@
 		)
 		(uuid "654f60d0-4509-491c-b74e-56e0d381e8f2")
 	)
-	(label "GPIO_OUT_23"
-		(at 377.19 147.32 180)
+	(label "GPIO_OUT_17"
+		(at 401.32 163.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "68d49344-d5ec-4c11-847c-961948882836")
-	)
-	(label "GPIO_OUT_2"
-		(at 377.19 119.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6911d5aa-1af0-4c2a-967a-086b11c95af7")
+		(uuid "657048a5-cf91-47b0-80a5-ab94df55dfdc")
 	)
 	(label "VCCBRAM"
 		(at 26.67 185.42 180)
@@ -9434,6 +10138,16 @@
 		)
 		(uuid "6ded346b-cdf7-4d9c-a71a-698706c595d8")
 	)
+	(label "GPIO_OUT_18"
+		(at 359.41 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6eb9c76b-a524-481f-8d81-2989a5da6bbd")
+	)
 	(label "GPIO_24"
 		(at 279.4 170.18 180)
 		(effects
@@ -9443,6 +10157,16 @@
 			(justify right bottom)
 		)
 		(uuid "6ffdbcbb-1e0f-4379-b1cd-ad322b11ed50")
+	)
+	(label "GPIO_OUT_4"
+		(at 359.41 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7225c609-6548-43d6-ba20-2d67c6632fda")
 	)
 	(label "GPIO_7"
 		(at 279.4 127 180)
@@ -9473,16 +10197,6 @@
 			(justify left bottom)
 		)
 		(uuid "72c5f194-8c14-4bea-a92a-72de7c6f0e8b")
-	)
-	(label "GPIO_OUT_0"
-		(at 377.19 109.22 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7439b867-e754-465a-bc3c-28939096bdbd")
 	)
 	(label "GPIO_27"
 		(at 279.4 177.8 180)
@@ -9534,15 +10248,25 @@
 		)
 		(uuid "83c79229-91bd-4585-8d5a-a599ec071f19")
 	)
-	(label "GPIO_OUT_12"
-		(at 377.19 170.18 180)
+	(label "GPIO_OUT_8"
+		(at 359.41 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "868c7440-93ed-436e-8149-0f39ae07dc26")
+		(uuid "84504b2c-5a94-4bf9-b9ca-6691411b5d51")
+	)
+	(label "GPIO_OUT_0"
+		(at 359.41 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "864488ba-4bc7-4be1-909f-447dba194775")
 	)
 	(label "GPIO_15"
 		(at 279.4 147.32 180)
@@ -9554,6 +10278,26 @@
 		)
 		(uuid "86ecb52f-a390-41ce-8fa5-a458a72a3136")
 	)
+	(label "GPIO_OUT_20"
+		(at 401.32 166.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8753bbff-081b-4236-aa1f-6300fb60131a")
+	)
+	(label "GPIO_OUT_1"
+		(at 359.41 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8b2f70f8-8f05-4754-9bc0-065794e0f2ff")
+	)
 	(label "GPIO_13"
 		(at 83.82 151.13 180)
 		(effects
@@ -9563,26 +10307,6 @@
 			(justify right bottom)
 		)
 		(uuid "8d08ba54-eab8-48df-916b-d16470be8550")
-	)
-	(label "GPIO_OUT_29"
-		(at 377.19 177.8 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8e829b26-2623-4bc8-873c-7901b64e1a95")
-	)
-	(label "GPIO_OUT_17"
-		(at 377.19 116.84 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8ee83234-4978-4077-8969-d521367d94c8")
 	)
 	(label "GPIO_31"
 		(at 279.4 187.96 180)
@@ -9594,15 +10318,15 @@
 		)
 		(uuid "94ff909c-025f-4f22-98c3-7b8c58ac526d")
 	)
-	(label "GPIO_OUT_25"
-		(at 377.19 157.48 180)
+	(label "GPIO_OUT_17"
+		(at 359.41 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "95f8730f-bca3-4cb0-9ed4-3a1615de334b")
+		(uuid "99e74207-ac04-4175-9e8e-f342d1f7e9e2")
 	)
 	(label "GPIO_16"
 		(at 279.4 149.86 180)
@@ -9614,6 +10338,16 @@
 		)
 		(uuid "9b1f0b28-7ac1-4699-98f8-4f4e224e4507")
 	)
+	(label "GPIO_OUT_22"
+		(at 359.41 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9bf8e9ca-b123-4482-a3ad-bf1a366f38a9")
+	)
 	(label "GPIO_25"
 		(at 215.9 115.57 0)
 		(effects
@@ -9623,6 +10357,16 @@
 			(justify left bottom)
 		)
 		(uuid "9c976057-47a4-4033-9078-bbf7e9e1b6f2")
+	)
+	(label "GPIO_OUT_26"
+		(at 359.41 196.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d57f0ea-0b79-47c6-9864-ae70895072fe")
 	)
 	(label "GPIO_OUT_13"
 		(at 318.77 142.24 180)
@@ -9634,6 +10378,16 @@
 		)
 		(uuid "9fb6cdce-ff9f-42d6-88f8-eafbf1a855f1")
 	)
+	(label "GPIO_OUT_26"
+		(at 401.32 196.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a06d029c-d9a9-4147-9847-b2ac2f41f1af")
+	)
 	(label "GPIO_OUT_30"
 		(at 318.77 185.42 180)
 		(effects
@@ -9644,25 +10398,45 @@
 		)
 		(uuid "a32ba382-8387-4265-b65f-0393a64df4de")
 	)
-	(label "GPIO_OUT_11"
-		(at 393.7 160.02 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a3d65e5d-ddfa-4c6c-b79e-d9654ca3fc31")
-	)
-	(label "GPIO_OUT_6"
-		(at 377.19 139.7 180)
+	(label "GPIO_OUT_22"
+		(at 401.32 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "a50afc7e-8e48-4d00-93a7-7aeb9f7ab8a5")
+		(uuid "a43f3607-325f-4098-9d1f-5587aa623bde")
+	)
+	(label "GPIO_OUT_18"
+		(at 401.32 156.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a57e7d7c-0f92-453a-ad45-6099aaa9ac0f")
+	)
+	(label "GPIO_OUT_21"
+		(at 401.32 184.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a816cc2b-b299-4077-9d66-f976479c89af")
+	)
+	(label "GPIO_OUT_29"
+		(at 359.41 224.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a8ad74f8-486c-4590-bf0c-777103dfb854")
 	)
 	(label "GPIO_OUT_15"
 		(at 318.77 147.32 180)
@@ -9684,16 +10458,6 @@
 		)
 		(uuid "aacc0d75-8a56-42ba-8ac1-199f00a93617")
 	)
-	(label "GPIO_OUT_3"
-		(at 393.7 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ab9d6080-cfc1-4193-b1f2-5f491ce1c871")
-	)
 	(label "GPIO_OUT_23"
 		(at 318.77 167.64 180)
 		(effects
@@ -9704,15 +10468,25 @@
 		)
 		(uuid "af54abdf-81d5-453e-ab4f-c7beb7e7c34e")
 	)
-	(label "GPIO_OUT_30"
-		(at 393.7 177.8 0)
+	(label "GPIO_OUT_15"
+		(at 359.41 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "b1137866-b0db-40f7-94e5-3397130e46e9")
+		(uuid "af554961-bf5e-49f4-84f3-1b9da18f244d")
+	)
+	(label "GPIO_OUT_10"
+		(at 401.32 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "afe582d4-65f8-4643-a33b-ae28f501efc2")
 	)
 	(label "VCCINT"
 		(at 26.67 182.88 180)
@@ -9744,6 +10518,16 @@
 		)
 		(uuid "ba95548c-1f52-4024-8e08-bad2f5e57603")
 	)
+	(label "GPIO_OUT_11"
+		(at 359.41 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bab0aa4a-fd0b-41b6-9eae-e76fb86df818")
+	)
 	(label "GPIO_25"
 		(at 279.4 172.72 180)
 		(effects
@@ -9764,25 +10548,25 @@
 		)
 		(uuid "bf4e6822-c843-4165-a523-4a806330b432")
 	)
-	(label "GPIO_OUT_10"
-		(at 377.19 160.02 180)
+	(label "GPIO_OUT_23"
+		(at 401.32 194.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "c65b3aaa-2783-4d46-a6eb-e2d48ae15816")
+		(uuid "bf6826a5-f778-4f88-880b-acd36d33c22e")
 	)
-	(label "GPIO_OUT_9"
-		(at 393.7 149.86 0)
+	(label "GPIO_OUT_2"
+		(at 359.41 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "c7197c23-d846-4065-adfc-b5b67fc871f5")
+		(uuid "bfb19aa8-7e57-4d2d-ac16-6d0a29a74165")
 	)
 	(label "GPIO_12"
 		(at 215.9 151.13 0)
@@ -9824,6 +10608,16 @@
 		)
 		(uuid "cda87cc0-d2a9-4ce6-bdbc-596c5ec45698")
 	)
+	(label "GPIO_OUT_11"
+		(at 401.32 133.35 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cdad00d7-aa33-47cf-85e4-cfc404e30643")
+	)
 	(label "GPIO_30"
 		(at 215.9 140.97 0)
 		(effects
@@ -9843,6 +10637,16 @@
 			(justify right bottom)
 		)
 		(uuid "ced66d40-dcc5-463a-a58a-adc7877589d3")
+	)
+	(label "GPIO_OUT_12"
+		(at 359.41 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cf976ac1-3ffc-42dc-994f-994b6bfe42c3")
 	)
 	(label "VCCO_14"
 		(at 26.67 187.96 180)
@@ -9864,6 +10668,26 @@
 		)
 		(uuid "d168a40f-575d-44fa-9a4e-6778fff74bf7")
 	)
+	(label "GPIO_OUT_7"
+		(at 359.41 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d2d062ea-4ac7-42b9-9454-4c8ecb45969e")
+	)
+	(label "GPIO_OUT_31"
+		(at 401.32 234.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d49c4ff1-b335-477c-8793-c5596519be86")
+	)
 	(label "GPIO_14"
 		(at 279.4 144.78 180)
 		(effects
@@ -9873,16 +10697,6 @@
 			(justify right bottom)
 		)
 		(uuid "d4d3f20d-8e5f-4b21-ac9f-9630fc5b6c92")
-	)
-	(label "GPIO_OUT_24"
-		(at 393.7 147.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d5424d69-32bc-40b1-9969-f590d768890d")
 	)
 	(label "GPIO_OUT_9"
 		(at 318.77 132.08 180)
@@ -9894,35 +10708,45 @@
 		)
 		(uuid "d5c54cf8-70d4-4468-b2c5-a63d3438ff87")
 	)
-	(label "GPIO_OUT_31"
-		(at 377.19 187.96 180)
+	(label "GPIO_OUT_13"
+		(at 401.32 143.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "d63afa4c-e5dd-4689-a505-f2323167d200")
+		(uuid "d7cf5280-bf7e-4a9c-b3da-8fbe2f34d0db")
+	)
+	(label "GPIO_OUT_20"
+		(at 359.41 166.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d94f25b5-9cd3-4160-902d-b31e29daf7f2")
+	)
+	(label "GPIO_OUT_24"
+		(at 359.41 186.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da84d0a4-c13c-4319-8c9b-76f76db94e55")
 	)
 	(label "GPIO_OUT_14"
-		(at 377.19 180.34 180)
+		(at 359.41 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "db681467-ffa8-4f49-9f96-cd7bc50f0fbf")
-	)
-	(label "GPIO_OUT_27"
-		(at 377.19 167.64 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "dcf64423-5c6c-4e57-abe8-34af539341c2")
+		(uuid "de6e742c-3a05-4a97-815a-ae4be951f724")
 	)
 	(label "GPIO_15"
 		(at 83.82 133.35 180)
@@ -9954,16 +10778,6 @@
 		)
 		(uuid "e2df67f2-dc7a-4e76-a5d5-f72517d821a1")
 	)
-	(label "GPIO_OUT_13"
-		(at 393.7 170.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "eb6a2c0a-693e-435c-9a3c-4ae9e2856b4c")
-	)
 	(label "GPIO_OUT_10"
 		(at 318.77 134.62 180)
 		(effects
@@ -9983,6 +10797,16 @@
 			(justify right bottom)
 		)
 		(uuid "ecabf5c6-2afe-435f-970b-2febcfe7adba")
+	)
+	(label "GPIO_OUT_15"
+		(at 401.32 153.67 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ee026762-d83e-440a-b463-e576ce1458de")
 	)
 	(label "GPIO_30"
 		(at 279.4 185.42 180)
@@ -10014,6 +10838,16 @@
 		)
 		(uuid "f0f57e0a-37a0-4e04-8b40-43711a62331c")
 	)
+	(label "GPIO_OUT_10"
+		(at 359.41 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f226c2fe-a69e-4c91-9526-0ca224cb7bcb")
+	)
 	(label "GPIO_12"
 		(at 279.4 139.7 180)
 		(effects
@@ -10023,6 +10857,16 @@
 			(justify right bottom)
 		)
 		(uuid "f42a77cc-b5f6-40d8-a14d-7346015cc530")
+	)
+	(label "GPIO_OUT_9"
+		(at 401.32 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f46ed713-c1e8-412d-a788-e57bb2e50ece")
 	)
 	(label "VSYNC"
 		(at 215.9 46.99 0)
@@ -10044,25 +10888,15 @@
 		)
 		(uuid "f7bfb365-d9dc-4620-ac64-f561ab61b957")
 	)
-	(label "GPIO_OUT_26"
-		(at 393.7 157.48 0)
+	(label "GPIO_OUT_23"
+		(at 359.41 194.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "f9d697c4-f955-4026-90f7-8f02811b7018")
-	)
-	(label "GPIO_OUT_22"
-		(at 393.7 137.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fd76cf44-3933-4537-89f3-d405438a9a57")
+		(uuid "fe6aa65d-86da-44c2-90ad-9b65d8ff0f67")
 	)
 	(label "GPIO_23"
 		(at 279.4 167.64 180)
@@ -10956,7 +11790,7 @@
 	)
 	(symbol
 		(lib_id "Test:USBLC6-2SC6")
-		(at 391.16 128.27 0)
+		(at 386.08 93.98 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10965,7 +11799,7 @@
 		(dnp no)
 		(uuid "0148d9bf-37a8-44a9-a15b-c86372127820")
 		(property "Reference" "U26"
-			(at 385.572 131.572 0)
+			(at 380.492 97.282 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10973,7 +11807,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 406.4159 146.0659 0)
+			(at 401.3359 111.7759 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10983,7 +11817,7 @@
 			)
 		)
 		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10993,7 +11827,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11002,7 +11836,7 @@
 			)
 		)
 		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11012,7 +11846,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "497-5235-1-ND"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11022,7 +11856,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11032,7 +11866,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11042,7 +11876,7 @@
 			)
 		)
 		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11052,7 +11886,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11062,7 +11896,7 @@
 			)
 		)
 		(property "Package" "SOT-23-6 STMicroelectronics"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11072,7 +11906,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11082,7 +11916,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11092,7 +11926,7 @@
 			)
 		)
 		(property "MP" "USBLC6-2SC6"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11102,7 +11936,7 @@
 			)
 		)
 		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11112,7 +11946,7 @@
 			)
 		)
 		(property "AVAILABILITY" "In Stock"
-			(at 391.16 128.27 0)
+			(at 386.08 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11553,7 +12387,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 377.19 143.51 90)
+		(at 372.11 109.22 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11561,7 +12395,7 @@
 		(dnp no)
 		(uuid "0b7fe8db-a29c-4e4f-ac1a-c97d1bf9fad1")
 		(property "Reference" "#PWR054"
-			(at 381 143.51 0)
+			(at 375.92 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11570,7 +12404,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 374.396 143.51 90)
+			(at 369.316 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11579,7 +12413,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 377.19 143.51 0)
+			(at 372.11 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11588,7 +12422,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 143.51 0)
+			(at 372.11 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11597,7 +12431,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 377.19 143.51 0)
+			(at 372.11 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11754,6 +12588,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 388.62 180.34 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0cde66af-27a2-4785-ac12-9a8b6fd81129")
+		(property "Reference" "#PWR0127"
+			(at 394.97 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 392.43 180.3399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 388.62 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "af32c36e-3f84-4a1b-8b93-382cd2c9e330")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR0127")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 290.83 109.22 90)
 		(mirror x)
@@ -11822,6 +12723,200 @@
 		)
 	)
 	(symbol
+		(lib_id "Test:USBLC6-2SC6")
+		(at 386.08 215.9 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e709137-2f25-4df1-a4e6-98efbea6949b")
+		(property "Reference" "U35"
+			(at 380.492 219.202 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 401.3359 233.6959 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "497-5235-1-ND"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "STMicroelectronics"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "None"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6 STMicroelectronics"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "USBLC6-2SC6"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "In Stock"
+			(at 386.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "31ea1eba-26b0-4efb-87d2-1257fa3bd4ab")
+		)
+		(pin "2"
+			(uuid "02709889-48d2-48a9-919e-b0f9235178cb")
+		)
+		(pin "3"
+			(uuid "3cb8af6b-3d06-428b-a4d9-3aaa58afb1da")
+		)
+		(pin "1"
+			(uuid "52802b2c-a05e-4bb8-a977-8adbf0bd9484")
+		)
+		(pin "5"
+			(uuid "1ce475b7-3b6e-4563-b917-664b1edd9ee1")
+		)
+		(pin "6"
+			(uuid "75821a6e-1852-46e9-9f90-2764c11cc03b")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "U35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 83.82 107.95 270)
 		(unit 1)
@@ -11883,6 +12978,200 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
 					(reference "#PWR0197")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Test:USBLC6-2SC6")
+		(at 386.08 205.74 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "163eef0e-39f0-4dbe-a4fa-4fa798dccd9a")
+		(property "Reference" "U34"
+			(at 380.492 209.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 401.3359 223.5359 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "497-5235-1-ND"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "STMicroelectronics"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "None"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6 STMicroelectronics"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "USBLC6-2SC6"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "In Stock"
+			(at 386.08 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "d1419e73-efb3-44ec-aadb-62d9e8e445f6")
+		)
+		(pin "2"
+			(uuid "6fa86587-41a0-4498-9971-963d4a74d57b")
+		)
+		(pin "3"
+			(uuid "f5f31138-86e7-456f-9af4-9c792b782601")
+		)
+		(pin "1"
+			(uuid "b23c40dc-94d1-4a93-ac2b-ce96aca0566f")
+		)
+		(pin "5"
+			(uuid "583680e5-73cd-4b3f-b0d5-a9aee745962d")
+		)
+		(pin "6"
+			(uuid "5dbb1eea-293b-4313-bc5b-49fd625bfa04")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "U34")
 					(unit 1)
 				)
 			)
@@ -12224,7 +13513,7 @@
 	)
 	(symbol
 		(lib_id "Test:USBLC6-2SC6")
-		(at 391.16 138.43 0)
+		(at 386.08 104.14 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12233,7 +13522,7 @@
 		(dnp no)
 		(uuid "2169cb28-39db-4f92-b7cb-bd29619f3896")
 		(property "Reference" "U27"
-			(at 385.572 141.732 0)
+			(at 380.492 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12241,7 +13530,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 406.4159 156.2259 0)
+			(at 401.3359 121.9359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12251,7 +13540,7 @@
 			)
 		)
 		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12261,7 +13550,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12270,7 +13559,7 @@
 			)
 		)
 		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12280,7 +13569,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "497-5235-1-ND"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12290,7 +13579,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12300,7 +13589,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12310,7 +13599,7 @@
 			)
 		)
 		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12320,7 +13609,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12330,7 +13619,7 @@
 			)
 		)
 		(property "Package" "SOT-23-6 STMicroelectronics"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12340,7 +13629,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12350,7 +13639,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12360,7 +13649,7 @@
 			)
 		)
 		(property "MP" "USBLC6-2SC6"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12370,7 +13659,7 @@
 			)
 		)
 		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12380,7 +13669,7 @@
 			)
 		)
 		(property "AVAILABILITY" "In Stock"
-			(at 391.16 138.43 0)
+			(at 386.08 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12484,6 +13773,200 @@
 		)
 	)
 	(symbol
+		(lib_id "Test:USBLC6-2SC6")
+		(at 386.08 154.94 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "21837fb6-5c30-450c-9199-0e37fe5f964b")
+		(property "Reference" "U21"
+			(at 380.492 158.242 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 401.3359 172.7359 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "497-5235-1-ND"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "STMicroelectronics"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "None"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6 STMicroelectronics"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "USBLC6-2SC6"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "In Stock"
+			(at 386.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "dd84286e-9397-492f-aadf-8bdc2f0d87a0")
+		)
+		(pin "2"
+			(uuid "79bc77fc-3972-4565-b1e4-74cfa7386805")
+		)
+		(pin "3"
+			(uuid "268174eb-b5b9-4596-a898-9595ef9c742b")
+		)
+		(pin "1"
+			(uuid "e000d66e-b0df-4dbc-b1ca-6e9962596aa1")
+		)
+		(pin "5"
+			(uuid "ef52be12-05f7-4c78-b230-14fe09eb8233")
+		)
+		(pin "6"
+			(uuid "69d9f937-02f6-4ea6-8d64-31a2666981eb")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "U21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 290.83 147.32 90)
 		(mirror x)
@@ -12552,17 +14035,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 393.7 184.15 90)
+		(lib_id "power:+3V3")
+		(at 372.11 170.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "22312c46-4491-4b99-b8d8-9e5ddbcf2a98")
-		(property "Reference" "#PWR066"
-			(at 400.05 184.15 0)
+		(uuid "21fc9351-173d-47ee-93e5-220d776ad219")
+		(property "Reference" "#PWR045"
+			(at 375.92 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12570,17 +14052,17 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 397.51 184.1499 90)
+		(property "Value" "+3V3"
+			(at 369.316 170.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 393.7 184.15 0)
+			(at 372.11 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12589,7 +14071,74 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 393.7 184.15 0)
+			(at 372.11 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c64f56fe-b610-4d16-b85e-d41265b2e4c4")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 388.62 149.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22312c46-4491-4b99-b8d8-9e5ddbcf2a98")
+		(property "Reference" "#PWR066"
+			(at 394.97 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 392.43 149.8599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12598,7 +14147,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 393.7 184.15 0)
+			(at 388.62 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12822,7 +14371,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 393.7 173.99 90)
+		(at 388.62 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12831,7 +14380,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b85d052-6c62-4d8e-989f-41005827eee6")
 		(property "Reference" "#PWR065"
-			(at 400.05 173.99 0)
+			(at 394.97 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12840,7 +14389,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 397.51 173.9899 90)
+			(at 392.43 139.6999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12849,7 +14398,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 393.7 173.99 0)
+			(at 388.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12858,7 +14407,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 393.7 173.99 0)
+			(at 388.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12867,7 +14416,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 393.7 173.99 0)
+			(at 388.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13025,6 +14574,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 388.62 170.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "34c8515c-dfee-4879-bfb8-51dce9f06e22")
+		(property "Reference" "#PWR099"
+			(at 394.97 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 392.43 170.1799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 388.62 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5aa60191-2788-4436-a339-f5c72dd25dfb")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR099")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 290.83 182.88 90)
 		(mirror x)
@@ -13094,7 +14710,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 377.19 173.99 90)
+		(at 372.11 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13102,7 +14718,7 @@
 		(dnp no)
 		(uuid "362fc187-92f5-43db-ae16-1ac0ad46a6b0")
 		(property "Reference" "#PWR057"
-			(at 381 173.99 0)
+			(at 375.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13111,16 +14727,17 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 374.396 173.99 90)
+			(at 369.316 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 377.19 173.99 0)
+			(at 372.11 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13129,7 +14746,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 173.99 0)
+			(at 372.11 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13138,7 +14755,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 377.19 173.99 0)
+			(at 372.11 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13221,6 +14838,72 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
 					(reference "R101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 372.11 200.66 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3aae64ed-781b-4a47-9b32-288739a7ef3d")
+		(property "Reference" "#PWR059"
+			(at 375.92 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 369.316 200.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 372.11 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b19ed3f1-a6f6-4081-a277-62e385195fdd")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -13551,6 +15234,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 388.62 231.14 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "433d9a2a-86c1-491c-8d5a-5bc9e3574d18")
+		(property "Reference" "#PWR0169"
+			(at 394.97 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 392.43 231.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 388.62 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "14012492-f9af-494b-9005-61ef05b35cca")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR0169")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 256.54 62.23 90)
 		(mirror x)
@@ -13620,7 +15370,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 393.7 153.67 90)
+		(at 388.62 119.38 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13629,7 +15379,7 @@
 		(fields_autoplaced yes)
 		(uuid "4563aa0d-08f1-400a-a28a-f144b3299b60")
 		(property "Reference" "#PWR063"
-			(at 400.05 153.67 0)
+			(at 394.97 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13638,7 +15388,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 397.51 153.6699 90)
+			(at 392.43 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13647,7 +15397,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 393.7 153.67 0)
+			(at 388.62 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13656,7 +15406,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 393.7 153.67 0)
+			(at 388.62 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13665,7 +15415,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 393.7 153.67 0)
+			(at 388.62 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13955,7 +15705,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 393.7 163.83 90)
+		(at 388.62 129.54 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13964,7 +15714,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e6a1e9f-3bbf-4bb1-bd85-90869fcaa8d0")
 		(property "Reference" "#PWR064"
-			(at 400.05 163.83 0)
+			(at 394.97 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13973,7 +15723,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 397.51 163.8299 90)
+			(at 392.43 129.5399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13982,7 +15732,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 393.7 163.83 0)
+			(at 388.62 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13991,7 +15741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 393.7 163.83 0)
+			(at 388.62 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14000,7 +15750,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 393.7 163.83 0)
+			(at 388.62 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14289,6 +16039,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 388.62 220.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5899d82f-de5b-4bae-b182-29c854d7d128")
+		(property "Reference" "#PWR0168"
+			(at 394.97 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 392.43 220.9799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 388.62 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a7b2f1be-4ad7-456f-8ee9-ca1f4a975dde")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR0168")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 290.83 111.76 90)
 		(mirror x)
@@ -14487,6 +16304,73 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
 					(reference "R48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 388.62 210.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e6b34bc-a112-4e23-b66b-cb81477f14e5")
+		(property "Reference" "#PWR0167"
+			(at 394.97 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 392.43 210.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 388.62 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "22cb5a37-df03-47b8-96c8-1e0edfd521b7")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR0167")
 					(unit 1)
 				)
 			)
@@ -14850,7 +16734,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "66e1fd9a-ee34-4def-a018-1c1e83db7c65")
 		(property "Reference" "J15"
 			(at 335.28 126.9999 90)
@@ -14862,7 +16745,7 @@
 			)
 		)
 		(property "Value" "6130XX11121_61301611121"
-			(at 335.28 129.5399 90)
+			(at 340.614 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15025,7 +16908,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 393.7 143.51 90)
+		(at 388.62 109.22 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15034,7 +16917,7 @@
 		(fields_autoplaced yes)
 		(uuid "6a3d9226-afb7-4a9e-b6d4-278a314a492d")
 		(property "Reference" "#PWR062"
-			(at 400.05 143.51 0)
+			(at 394.97 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15043,7 +16926,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 397.51 143.5099 90)
+			(at 392.43 109.2199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15052,7 +16935,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 393.7 143.51 0)
+			(at 388.62 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15061,7 +16944,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 393.7 143.51 0)
+			(at 388.62 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15070,7 +16953,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 393.7 143.51 0)
+			(at 388.62 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15092,7 +16975,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 377.19 184.15 90)
+		(at 372.11 149.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15100,7 +16983,7 @@
 		(dnp no)
 		(uuid "6c9f1540-63f6-409c-bd4f-c8e93ee48a7b")
 		(property "Reference" "#PWR058"
-			(at 381 184.15 0)
+			(at 375.92 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15109,7 +16992,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 374.396 184.15 90)
+			(at 369.316 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15118,7 +17001,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 377.19 184.15 0)
+			(at 372.11 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15127,7 +17010,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 184.15 0)
+			(at 372.11 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15136,7 +17019,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 377.19 184.15 0)
+			(at 372.11 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15164,7 +17047,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6e389d41-984e-4d48-b9c7-723b9c3d45c4")
 		(property "Reference" "J16"
 			(at 335.28 167.6399 90)
@@ -15176,7 +17058,7 @@
 			)
 		)
 		(property "Value" "6130XX11121_61301611121"
-			(at 335.28 170.1799 90)
+			(at 340.614 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15608,7 +17490,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 393.7 123.19 90)
+		(at 388.62 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15617,7 +17499,7 @@
 		(fields_autoplaced yes)
 		(uuid "70624bb1-e3f9-4dd3-ab3f-52b5e6056b0f")
 		(property "Reference" "#PWR052"
-			(at 400.05 123.19 0)
+			(at 394.97 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15626,7 +17508,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 397.51 123.1899 90)
+			(at 392.43 88.8999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15635,7 +17517,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 393.7 123.19 0)
+			(at 388.62 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15644,7 +17526,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 393.7 123.19 0)
+			(at 388.62 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15653,7 +17535,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 393.7 123.19 0)
+			(at 388.62 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15880,7 +17762,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 393.7 113.03 90)
+		(at 388.62 78.74 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15889,7 +17771,7 @@
 		(fields_autoplaced yes)
 		(uuid "77f731ef-40af-4c21-b969-d5f734fffd30")
 		(property "Reference" "#PWR051"
-			(at 400.05 113.03 0)
+			(at 394.97 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15898,7 +17780,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 397.51 113.0299 90)
+			(at 392.43 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15907,7 +17789,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 393.7 113.03 0)
+			(at 388.62 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15916,7 +17798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 393.7 113.03 0)
+			(at 388.62 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15925,7 +17807,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 393.7 113.03 0)
+			(at 388.62 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15947,7 +17829,7 @@
 	)
 	(symbol
 		(lib_id "Test:USBLC6-2SC6")
-		(at 391.16 107.95 0)
+		(at 386.08 73.66 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15956,7 +17838,7 @@
 		(dnp no)
 		(uuid "7a024bbd-6b72-450d-bb54-65743d8b1330")
 		(property "Reference" "U24"
-			(at 385.572 111.252 0)
+			(at 380.492 76.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15964,7 +17846,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 406.4159 125.7459 0)
+			(at 401.3359 91.4559 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15974,7 +17856,7 @@
 			)
 		)
 		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15984,7 +17866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15993,7 +17875,7 @@
 			)
 		)
 		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16003,7 +17885,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "497-5235-1-ND"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16013,7 +17895,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16023,7 +17905,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16033,7 +17915,7 @@
 			)
 		)
 		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16043,7 +17925,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16053,7 +17935,7 @@
 			)
 		)
 		(property "Package" "SOT-23-6 STMicroelectronics"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16063,7 +17945,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16073,7 +17955,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16083,7 +17965,7 @@
 			)
 		)
 		(property "MP" "USBLC6-2SC6"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16093,7 +17975,7 @@
 			)
 		)
 		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16103,7 +17985,7 @@
 			)
 		)
 		(property "AVAILABILITY" "In Stock"
-			(at 391.16 107.95 0)
+			(at 386.08 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16207,7 +18089,7 @@
 	)
 	(symbol
 		(lib_id "Test:USBLC6-2SC6")
-		(at 391.16 158.75 0)
+		(at 386.08 124.46 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16216,7 +18098,7 @@
 		(dnp no)
 		(uuid "7bb1a55d-bd5d-42e6-b69d-5a411df2e85d")
 		(property "Reference" "U29"
-			(at 385.572 162.052 0)
+			(at 380.492 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16224,7 +18106,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 406.4159 176.5459 0)
+			(at 401.3359 142.2559 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16234,7 +18116,7 @@
 			)
 		)
 		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16244,7 +18126,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16253,7 +18135,7 @@
 			)
 		)
 		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16263,7 +18145,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "497-5235-1-ND"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16273,7 +18155,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16283,7 +18165,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16293,7 +18175,7 @@
 			)
 		)
 		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16303,7 +18185,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16313,7 +18195,7 @@
 			)
 		)
 		(property "Package" "SOT-23-6 STMicroelectronics"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16323,7 +18205,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16333,7 +18215,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16343,7 +18225,7 @@
 			)
 		)
 		(property "MP" "USBLC6-2SC6"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16353,7 +18235,7 @@
 			)
 		)
 		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16363,7 +18245,7 @@
 			)
 		)
 		(property "AVAILABILITY" "In Stock"
-			(at 391.16 158.75 0)
+			(at 386.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16737,7 +18619,7 @@
 	)
 	(symbol
 		(lib_id "Test:USBLC6-2SC6")
-		(at 391.16 148.59 0)
+		(at 386.08 114.3 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16746,7 +18628,7 @@
 		(dnp no)
 		(uuid "8889fa75-2a69-4fee-b248-0aa9f52176df")
 		(property "Reference" "U28"
-			(at 385.572 151.892 0)
+			(at 380.492 117.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16754,7 +18636,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 406.4159 166.3859 0)
+			(at 401.3359 132.0959 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16764,7 +18646,7 @@
 			)
 		)
 		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16774,7 +18656,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16783,7 +18665,7 @@
 			)
 		)
 		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16793,7 +18675,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "497-5235-1-ND"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16803,7 +18685,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16813,7 +18695,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16823,7 +18705,7 @@
 			)
 		)
 		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16833,7 +18715,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16843,7 +18725,7 @@
 			)
 		)
 		(property "Package" "SOT-23-6 STMicroelectronics"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16853,7 +18735,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16863,7 +18745,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16873,7 +18755,7 @@
 			)
 		)
 		(property "MP" "USBLC6-2SC6"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16883,7 +18765,7 @@
 			)
 		)
 		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16893,7 +18775,7 @@
 			)
 		)
 		(property "AVAILABILITY" "In Stock"
-			(at 391.16 148.59 0)
+			(at 386.08 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16930,8 +18812,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 372.11 180.34 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "891c50ed-4de3-4a7b-bac5-39f3fd20e188")
+		(property "Reference" "#PWR046"
+			(at 375.92 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 369.316 180.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 372.11 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d70d6845-3b80-4dc9-89ce-4fcb9c032d2e")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Test:USBLC6-2SC6")
-		(at 391.16 179.07 0)
+		(at 386.08 144.78 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16940,7 +18888,7 @@
 		(dnp no)
 		(uuid "89643cca-d890-4133-bacc-7e74b048a5f7")
 		(property "Reference" "U31"
-			(at 385.572 182.372 0)
+			(at 380.492 148.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16948,7 +18896,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 406.4159 196.8659 0)
+			(at 401.3359 162.5759 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16958,7 +18906,7 @@
 			)
 		)
 		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16968,7 +18916,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16977,7 +18925,7 @@
 			)
 		)
 		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16987,7 +18935,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "497-5235-1-ND"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16997,7 +18945,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17007,7 +18955,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17017,7 +18965,7 @@
 			)
 		)
 		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17027,7 +18975,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17037,7 +18985,7 @@
 			)
 		)
 		(property "Package" "SOT-23-6 STMicroelectronics"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17047,7 +18995,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17057,7 +19005,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17067,7 +19015,7 @@
 			)
 		)
 		(property "MP" "USBLC6-2SC6"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17077,7 +19025,7 @@
 			)
 		)
 		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17087,7 +19035,7 @@
 			)
 		)
 		(property "AVAILABILITY" "In Stock"
-			(at 391.16 179.07 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17264,6 +19212,200 @@
 		)
 	)
 	(symbol
+		(lib_id "Test:USBLC6-2SC6")
+		(at 386.08 165.1 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "915845ee-12de-4c9f-a9ba-2c6a1d23791d")
+		(property "Reference" "U22"
+			(at 380.492 168.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 401.3359 182.8959 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "497-5235-1-ND"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "STMicroelectronics"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "None"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6 STMicroelectronics"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "USBLC6-2SC6"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "In Stock"
+			(at 386.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "493d8076-70f3-470b-9018-e8febb26cb48")
+		)
+		(pin "2"
+			(uuid "55b9805f-f2c4-436e-a7cd-855ec726e135")
+		)
+		(pin "3"
+			(uuid "2415cfdc-6326-4b4a-ab15-7d9060a1f902")
+		)
+		(pin "1"
+			(uuid "13f42887-1e0f-48ce-ab19-d27904ea77a6")
+		)
+		(pin "5"
+			(uuid "687bd7df-9098-4745-b217-7050783e6620")
+		)
+		(pin "6"
+			(uuid "30ca40ed-5041-426c-bf61-3dd1ef282c6b")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "U22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 290.83 165.1 90)
 		(mirror x)
@@ -17333,7 +19475,7 @@
 	)
 	(symbol
 		(lib_id "Test:USBLC6-2SC6")
-		(at 391.16 168.91 0)
+		(at 386.08 134.62 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17342,7 +19484,7 @@
 		(dnp no)
 		(uuid "96088817-0fb0-4a1c-8c5a-2ca223d87135")
 		(property "Reference" "U30"
-			(at 385.572 172.212 0)
+			(at 380.492 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17350,7 +19492,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 406.4159 186.7059 0)
+			(at 401.3359 152.4159 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17360,7 +19502,7 @@
 			)
 		)
 		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17370,7 +19512,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17379,7 +19521,7 @@
 			)
 		)
 		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17389,7 +19531,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "497-5235-1-ND"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17399,7 +19541,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17409,7 +19551,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17419,7 +19561,7 @@
 			)
 		)
 		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17429,7 +19571,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17439,7 +19581,7 @@
 			)
 		)
 		(property "Package" "SOT-23-6 STMicroelectronics"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17449,7 +19591,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17459,7 +19601,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17469,7 +19611,7 @@
 			)
 		)
 		(property "MP" "USBLC6-2SC6"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17479,7 +19621,7 @@
 			)
 		)
 		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17489,7 +19631,7 @@
 			)
 		)
 		(property "AVAILABILITY" "In Stock"
-			(at 391.16 168.91 0)
+			(at 386.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17520,6 +19662,72 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
 					(reference "U30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 372.11 231.14 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9736a5be-d848-467b-a346-95da99c67008")
+		(property "Reference" "#PWR085"
+			(at 375.92 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 369.316 231.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 372.11 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8ee633a-e207-430b-a5ff-547e2bf50c6b")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -17595,15 +19803,15 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 377.19 153.67 90)
+		(at 372.11 190.5 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "9a4fa599-30d9-4d2c-aea5-44b594b90a8e")
-		(property "Reference" "#PWR055"
-			(at 381 153.67 0)
+		(uuid "99b46b9a-e769-4e77-9c9a-a26bb3c554e8")
+		(property "Reference" "#PWR050"
+			(at 375.92 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17612,7 +19820,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 374.396 153.67 90)
+			(at 369.316 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17621,7 +19829,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 377.19 153.67 0)
+			(at 372.11 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17630,7 +19838,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 153.67 0)
+			(at 372.11 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17639,7 +19847,73 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 377.19 153.67 0)
+			(at 372.11 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8b7955d9-5b30-4605-a9b1-7e6714c86701")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 372.11 119.38 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9a4fa599-30d9-4d2c-aea5-44b594b90a8e")
+		(property "Reference" "#PWR055"
+			(at 375.92 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 369.316 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 372.11 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17860,7 +20134,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 377.19 163.83 90)
+		(at 372.11 129.54 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17868,7 +20142,7 @@
 		(dnp no)
 		(uuid "a5bbe58f-8190-499d-ba7a-ecb632c03134")
 		(property "Reference" "#PWR056"
-			(at 381 163.83 0)
+			(at 375.92 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17877,7 +20151,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 374.396 163.83 90)
+			(at 369.316 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17886,7 +20160,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 377.19 163.83 0)
+			(at 372.11 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17895,7 +20169,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 163.83 0)
+			(at 372.11 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17904,7 +20178,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 377.19 163.83 0)
+			(at 372.11 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17919,6 +20193,200 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
 					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Test:USBLC6-2SC6")
+		(at 386.08 185.42 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a5fd2064-2399-47d9-851e-e5e073975608")
+		(property "Reference" "U32"
+			(at 380.492 188.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 401.3359 203.2159 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "497-5235-1-ND"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "STMicroelectronics"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "None"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6 STMicroelectronics"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "USBLC6-2SC6"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "In Stock"
+			(at 386.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "b488a786-aea0-4678-9168-083e4affed13")
+		)
+		(pin "2"
+			(uuid "b6f0e1d4-e890-4eea-921e-6780544060cc")
+		)
+		(pin "3"
+			(uuid "a56227d0-cfd6-4654-9483-fb75bff46f62")
+		)
+		(pin "1"
+			(uuid "0814fdba-9800-4d8a-bb22-94c194abfe9c")
+		)
+		(pin "5"
+			(uuid "104fb3b2-e18c-4949-b9ee-75f3634f12bf")
+		)
+		(pin "6"
+			(uuid "7b3ba86f-c7da-417a-bdb7-7aadb106f627")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "U32")
 					(unit 1)
 				)
 			)
@@ -17986,6 +20454,73 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
 					(reference "#PWR0240")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 388.62 190.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a6d0606d-51e0-4079-8b9a-b865e71169af")
+		(property "Reference" "#PWR0128"
+			(at 394.97 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 392.43 190.4999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 388.62 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6d52b08d-1ae4-4b19-a493-6b03e2da0506")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -18193,6 +20728,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 388.62 200.66 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "add40055-0c98-465f-8b5f-c53a71e2baa4")
+		(property "Reference" "#PWR0166"
+			(at 394.97 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 392.43 200.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 388.62 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "579fbeff-3a60-445b-9913-85991ba64c77")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR0166")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 290.83 144.78 90)
 		(mirror x)
@@ -18327,6 +20929,200 @@
 		)
 	)
 	(symbol
+		(lib_id "Test:USBLC6-2SC6")
+		(at 386.08 226.06 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b74544ab-f086-4fac-827c-0b523af3ac15")
+		(property "Reference" "U36"
+			(at 380.492 229.362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 401.3359 243.8559 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "497-5235-1-ND"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "STMicroelectronics"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "None"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6 STMicroelectronics"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "USBLC6-2SC6"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "In Stock"
+			(at 386.08 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "81fecd78-e8af-4cdd-bc9c-38712e54b796")
+		)
+		(pin "2"
+			(uuid "ba98cae4-ecec-45e4-a85b-329128f86fff")
+		)
+		(pin "3"
+			(uuid "8271e70d-4283-473d-a383-9f911bb2df4c")
+		)
+		(pin "1"
+			(uuid "6583651c-3de4-4795-aa1d-eb228f6e7098")
+		)
+		(pin "5"
+			(uuid "67b6c4bc-54c3-49bc-8611-c95bbc5f34e0")
+		)
+		(pin "6"
+			(uuid "b83830b9-6966-4ac3-95fc-ba3484bf7ca5")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "U36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 27.94 193.04 270)
 		(unit 1)
@@ -18393,8 +21189,202 @@
 		)
 	)
 	(symbol
+		(lib_id "Test:USBLC6-2SC6")
+		(at 386.08 175.26 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b99195e6-411d-439d-a84a-21db860fe6d9")
+		(property "Reference" "U23"
+			(at 380.492 178.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 401.3359 193.0559 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "497-5235-1-ND"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "STMicroelectronics"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "None"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6 STMicroelectronics"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "USBLC6-2SC6"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "In Stock"
+			(at 386.08 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "e02e56b9-7ff2-4752-af71-33d6aad5025e")
+		)
+		(pin "2"
+			(uuid "e3cc89dc-0fad-45f3-a0dc-4e65a5af9982")
+		)
+		(pin "3"
+			(uuid "36ce7e69-655f-416c-8d94-3c0a6e2f6416")
+		)
+		(pin "1"
+			(uuid "3749c77e-0890-494c-9821-4a70ddf928bd")
+		)
+		(pin "5"
+			(uuid "a6634bd0-5aff-453d-83c1-7a99984f80a0")
+		)
+		(pin "6"
+			(uuid "167658fc-4efe-40cd-a6ab-9973d2b02098")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "U23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
-		(at 377.19 133.35 90)
+		(at 372.11 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18402,7 +21392,7 @@
 		(dnp no)
 		(uuid "bcfcd52e-fd18-4eac-8c99-96d325738910")
 		(property "Reference" "#PWR049"
-			(at 381 133.35 0)
+			(at 375.92 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18411,16 +21401,17 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 374.396 133.35 90)
+			(at 369.316 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 377.19 133.35 0)
+			(at 372.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18429,7 +21420,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 133.35 0)
+			(at 372.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18438,7 +21429,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 377.19 133.35 0)
+			(at 372.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18453,6 +21444,73 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
 					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 388.62 160.02 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bede2592-625e-42cf-be6e-48111ba81ce9")
+		(property "Reference" "#PWR086"
+			(at 394.97 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 392.43 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 388.62 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "acb6c0b7-bf75-4a9e-9abe-9a407f2e69a5")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -18657,6 +21715,266 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
 					(reference "R65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Test:USBLC6-2SC6")
+		(at 386.08 195.58 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8ef6d0b-ef51-4fde-8185-e126187496b4")
+		(property "Reference" "U33"
+			(at 380.492 198.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 401.3359 213.3759 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "497-5235-1-ND"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "STMicroelectronics"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "None"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6 STMicroelectronics"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "USBLC6-2SC6"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "In Stock"
+			(at 386.08 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "6b852816-cc5b-43cc-b66f-84074493919d")
+		)
+		(pin "2"
+			(uuid "09025063-4476-42e2-a335-6e8ed49f9086")
+		)
+		(pin "3"
+			(uuid "1b1216f7-70e1-452b-83a3-568f5c73cc05")
+		)
+		(pin "1"
+			(uuid "d8f84053-ce25-4516-89ab-1ce5998298b0")
+		)
+		(pin "5"
+			(uuid "37750e82-12eb-49e1-bef4-66b63a76dcde")
+		)
+		(pin "6"
+			(uuid "2c23fdd0-0158-4eb9-88d5-bde7656473f5")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "U33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 372.11 210.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c91299af-ad75-4232-bef1-8a3606612c65")
+		(property "Reference" "#PWR060"
+			(at 375.92 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 369.316 210.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 372.11 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "670e6bdb-2498-4476-9243-2787b11df156")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -20462,8 +23780,141 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 372.11 160.02 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f2841cc7-8545-4f6a-8c95-d223988c71cf")
+		(property "Reference" "#PWR044"
+			(at 375.92 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 369.316 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 372.11 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1e0bfc9-44c5-46ee-b0c6-bbc1b58812f6")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 372.11 220.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f46c6751-db03-4665-b88c-d10dabcba300")
+		(property "Reference" "#PWR061"
+			(at 375.92 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 369.316 220.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 372.11 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "de3628b6-4c94-4333-a431-cc591d26d806")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Test:USBLC6-2SC6")
-		(at 391.16 118.11 0)
+		(at 386.08 83.82 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20472,7 +23923,7 @@
 		(dnp no)
 		(uuid "f5547337-07d4-4e41-a4e3-8faa93f9022a")
 		(property "Reference" "U25"
-			(at 385.572 121.412 0)
+			(at 380.492 87.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20480,7 +23931,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 406.4159 135.9059 0)
+			(at 401.3359 101.6159 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20490,7 +23941,7 @@
 			)
 		)
 		(property "Footprint" "USB_HUB:SOT95P280X145-6N"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20500,7 +23951,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20509,7 +23960,7 @@
 			)
 		)
 		(property "Description" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20519,7 +23970,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "497-5235-1-ND"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20529,7 +23980,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20539,7 +23990,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20549,7 +24000,7 @@
 			)
 		)
 		(property "PACKAGE" "SOT-23-6 STMicroelectronics"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20559,7 +24010,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20569,7 +24020,7 @@
 			)
 		)
 		(property "Package" "SOT-23-6 STMicroelectronics"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20579,7 +24030,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20589,7 +24040,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20599,7 +24050,7 @@
 			)
 		)
 		(property "MP" "USBLC6-2SC6"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20609,7 +24060,7 @@
 			)
 		)
 		(property "Description_1" "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20619,7 +24070,7 @@
 			)
 		)
 		(property "AVAILABILITY" "In Stock"
-			(at 391.16 118.11 0)
+			(at 386.08 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20862,7 +24313,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 377.19 113.03 90)
+		(at 372.11 78.74 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20870,7 +24321,7 @@
 		(dnp no)
 		(uuid "fba821d6-868d-4b7d-ba07-e9ea719d9388")
 		(property "Reference" "#PWR047"
-			(at 381 113.03 0)
+			(at 375.92 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20879,7 +24330,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 374.396 113.03 90)
+			(at 369.316 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20888,7 +24339,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 377.19 113.03 0)
+			(at 372.11 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20897,7 +24348,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 113.03 0)
+			(at 372.11 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20906,7 +24357,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 377.19 113.03 0)
+			(at 372.11 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20928,7 +24379,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 393.7 133.35 90)
+		(at 388.62 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20937,7 +24388,7 @@
 		(fields_autoplaced yes)
 		(uuid "fd1669c8-6359-4013-99ae-8a16b2cd85d1")
 		(property "Reference" "#PWR053"
-			(at 400.05 133.35 0)
+			(at 394.97 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20946,7 +24397,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 397.51 133.3499 90)
+			(at 392.43 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20955,7 +24406,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 393.7 133.35 0)
+			(at 388.62 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20964,7 +24415,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 393.7 133.35 0)
+			(at 388.62 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20973,7 +24424,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 393.7 133.35 0)
+			(at 388.62 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20995,7 +24446,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 377.19 123.19 90)
+		(at 372.11 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21003,7 +24454,7 @@
 		(dnp no)
 		(uuid "fea2d18f-a647-4bef-b136-88824abf27fd")
 		(property "Reference" "#PWR048"
-			(at 381 123.19 0)
+			(at 375.92 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21012,7 +24463,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 374.396 123.19 90)
+			(at 369.316 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21021,7 +24472,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 377.19 123.19 0)
+			(at 372.11 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21030,7 +24481,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 123.19 0)
+			(at 372.11 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21039,7 +24490,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 377.19 123.19 0)
+			(at 372.11 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
