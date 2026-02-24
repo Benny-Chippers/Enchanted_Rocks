@@ -7734,6 +7734,16 @@
 		)
 		(uuid "44b724a0-b098-4994-b7ca-ae7519164c91")
 	)
+	(label "ESD_P"
+		(at 184.15 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4b2118c7-88a5-4363-9b79-7f4eda07e68c")
+	)
 	(label "USB_TCK"
 		(at 48.26 92.71 0)
 		(effects
@@ -7863,6 +7873,16 @@
 			(justify left bottom)
 		)
 		(uuid "8c21a7ad-94c7-4e6e-87f7-0ca46906dde3")
+	)
+	(label "ESD_N"
+		(at 184.15 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "93018316-c0e6-4a9a-bef9-0f49e72824f7")
 	)
 	(label "XTALIN"
 		(at 26.67 179.07 0)
