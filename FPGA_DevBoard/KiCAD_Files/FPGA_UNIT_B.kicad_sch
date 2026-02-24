@@ -7660,6 +7660,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 92.71) (xy 401.32 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02097d9c-8826-4b47-b04d-39b056f55242")
+	)
+	(wire
+		(pts
 			(xy 62.23 114.3) (xy 62.23 102.87)
 		)
 		(stroke
@@ -8660,6 +8670,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 82.55) (xy 401.32 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81a9a751-23a0-405a-9d80-30c57cdb2814")
+	)
+	(wire
+		(pts
 			(xy 372.11 143.51) (xy 359.41 143.51)
 		)
 		(stroke
@@ -8830,6 +8850,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 95.25) (xy 401.32 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "977199a1-1cbc-4f59-a2e1-89df3056564d")
+	)
+	(wire
+		(pts
 			(xy 64.77 49.53) (xy 83.82 49.53)
 		)
 		(stroke
@@ -8837,6 +8867,16 @@
 			(type default)
 		)
 		(uuid "9891f62b-0553-4dde-8293-7be7c30a8c03")
+	)
+	(wire
+		(pts
+			(xy 388.62 74.93) (xy 401.32 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0d0510a-b27c-481b-a1d0-d9ff99125960")
 	)
 	(wire
 		(pts
@@ -8877,6 +8917,16 @@
 			(type default)
 		)
 		(uuid "a88bcb26-0c58-4174-add0-c9bd5b85e109")
+	)
+	(wire
+		(pts
+			(xy 388.62 85.09) (xy 401.32 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8b1087d-1185-4895-808c-14652dcd62dd")
 	)
 	(wire
 		(pts
@@ -10058,6 +10108,16 @@
 		)
 		(uuid "627336f9-8585-4f59-8e62-f9c2ba32fdcc")
 	)
+	(label "GPIO_OUT_3"
+		(at 401.32 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "62f70248-a544-4835-94d2-156e5ee76b47")
+	)
 	(label "GPIO_OUT_13"
 		(at 359.41 143.51 0)
 		(effects
@@ -10137,6 +10197,16 @@
 			(justify right bottom)
 		)
 		(uuid "6ded346b-cdf7-4d9c-a71a-698706c595d8")
+	)
+	(label "GPIO_OUT_2"
+		(at 401.32 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6e09bd87-fdb3-4486-9a34-7e81b79f1d1c")
 	)
 	(label "GPIO_OUT_18"
 		(at 359.41 156.21 0)
@@ -10498,6 +10568,16 @@
 		)
 		(uuid "b5bb6ea1-d7ec-4e61-9787-5e73d15f25dc")
 	)
+	(label "GPIO_OUT_1"
+		(at 401.32 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b7f49bbb-4d9b-4fb0-a14a-1f398f0f8466")
+	)
 	(label "VCCAUX"
 		(at 226.06 95.25 0)
 		(effects
@@ -10567,6 +10647,16 @@
 			(justify left bottom)
 		)
 		(uuid "bfb19aa8-7e57-4d2d-ac16-6d0a29a74165")
+	)
+	(label "GPIO_OUT_4"
+		(at 401.32 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c060da82-eae0-4280-8b18-cc14e4c0f9ec")
 	)
 	(label "GPIO_12"
 		(at 215.9 151.13 0)
@@ -10727,6 +10817,16 @@
 			(justify left bottom)
 		)
 		(uuid "d94f25b5-9cd3-4160-902d-b31e29daf7f2")
+	)
+	(label "GPIO_OUT_0"
+		(at 401.32 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d9a7e9f1-e1d6-4490-ac97-44ca9aeee2ec")
 	)
 	(label "GPIO_OUT_24"
 		(at 359.41 186.69 0)
