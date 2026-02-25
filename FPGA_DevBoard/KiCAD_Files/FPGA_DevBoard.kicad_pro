@@ -220,11 +220,7 @@
           "using the given footprint for the device, so this isnt cause for alarm"
         ],
         [
-          "unconnected_items|162000000|51320000|F.Cu|4|0c534267-dff4-4572-8d85-2649a9289b05|ec612e76-233f-46c6-834f-994930125ea8",
-          "Not sure why but it doesnt matter, otehr shell GNDs are connected"
-        ],
-        [
-          "unconnected_items|60790000|31573554|F.Cu|4|692396fe-0980-454b-918c-04aa65975220|b2e4447a-63b9-4890-bb7a-2f859080714c",
+          "unconnected_items|60790000|31573554|F.Cu|4|692396fe-0980-454b-918c-04aa65975220|865cddad-b252-41bd-8325-9859fa9331ae",
           "its fine the other 2 shell through holes are connected to GND"
         ]
       ],

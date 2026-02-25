@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 7,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -109,7 +109,7 @@
       137,
       137,
       137,
-      10
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
