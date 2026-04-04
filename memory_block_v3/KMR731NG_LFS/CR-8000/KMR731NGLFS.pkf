@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "KMR731NGLFS"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "KMR731NGLFS")
+        (spec "default")
+    )
+)

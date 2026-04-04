@@ -1,0 +1,9 @@
+Manufacturer=Adafruit
+PartNumber=4677
+PartCategory=Connector
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2023-06-30 04:13:20
+Downloaded=2025-10-30 02:20:52
+3D=Y

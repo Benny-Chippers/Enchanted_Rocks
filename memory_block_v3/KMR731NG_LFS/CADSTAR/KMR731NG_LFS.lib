@@ -1,0 +1,16 @@
+.KMR731NG_LFS :1 ;IP67 Black Button Tactile Switch, SPST-NO 50 mA 2.11mm Surface Mount
+KMR731NGLFS
+*STM S
+*NGS
+*PLB 1="NO_1" 2="NO_2" 3="COM_1" 4="COM_2"
+*MXP 4
+*DFN KMR731NG_LFS
+~!Mouser Part Number (611-KMR731NGLFS)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=611-KMR731NGLFS)
+~!Manufacturer_Name (C & K COMPONENTS)
+~!Manufacturer_Part_Number (KMR731NG LFS)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/KMR731NG LFS.pdf)
+~!Height (-)
+~!3D_Model (KMR731NG_LFS)
+KMR731NG_LFS
+1.1!U 2.1!U 3.1!U 4.1!U 

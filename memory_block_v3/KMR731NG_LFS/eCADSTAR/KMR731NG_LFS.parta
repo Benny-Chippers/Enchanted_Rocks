@@ -1,0 +1,73 @@
+(Japanese_coding: sjis)
+(function "ECS_830192"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-04-11-15:37:20)
+    (utime 2024-07-15-10:31:04)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+        (port "4" (symbPinId 4) (portType INOUT))
+    )
+    (property "symbolName" "KMR731NG_LFS")
+)
+
+
+(pinAssign "ECS_830192"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-04-11-15:37:20)
+    (utime 2024-07-15-10:31:04)
+    (interface
+        (port "1" (symbPinId 1) (portName "NO_1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NO_2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "COM_1") (portType INOUT))
+        (port "4" (symbPinId 4) (portName "COM_2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_830192")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+                (port "4" (match "4"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "KMR731NG_LFS")
+)
+
+
+(part "KMR731NG_LFS"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-04-11-15:37:20)
+    (utime 2024-07-15-10:31:04)
+    (packageRef "KMR731NG_LFS")
+    (pinAssignRef "ECS_830192")
+    (interface
+        (port "1" (symbPinId 1) (portName "NO_1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NO_2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "COM_1") (portType INOUT))
+        (port "4" (symbPinId 4) (portName "COM_2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "S")
+    (property "description" "IP67 Black Button Tactile Switch, SPST-NO 50 mA 2.11mm Surface Mount")
+    (property "Mouser_Part_Number" "611-KMR731NGLFS")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=611-KMR731NGLFS")
+    (property "Manufacturer_Name" "C & K COMPONENTS")
+    (property "Manufacturer_Part_Number" "KMR731NG LFS")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/KMR731NG LFS.pdf")
+)
+
+

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KMR731NG_LFS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-13-13:01:21)
+    (mountForm default
+        (footprintRef "KMR731NGLFS")
+        (spec "System")
+    )
+)

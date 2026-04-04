@@ -1,0 +1,16 @@
+.4677 :1 ;Adafruit Accessories Generic 64 Mbit Serial Pseudo SRAM - 3.3V 133 MHz
+SOIC127P600X175-8N
+*STM J
+*NGS
+*PLB 1="CE#" 2="SO/SIO[1]" 3="SIO[2]" 4="VSS" 5="SI/SIO[0]" 6="SCLK" 7="SIO[3]" 8="VCC"
+*MXP 8
+*DFN 4677
+~!Mouser Part Number (485-4677)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Adafruit/4677?qs=DPoM0jnrROUZDCYEDSsMew%3D%3D)
+~!Manufacturer_Name (Adafruit)
+~!Manufacturer_Part_Number (4677)
+~!Link Datasheet (https://www.espressif.com/sites/default/files/documentation/esp-psram64_esp-psram64h_datasheet_en.pdf)
+~!Height (1.75mm)
+~!3D_Model (4677)
+"4677"
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 
