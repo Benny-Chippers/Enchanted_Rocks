@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DM3D-SF
+D Micro SD card push pull manual
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000141252.pdf
+$ENDCMP
+#
+#End Doc Library

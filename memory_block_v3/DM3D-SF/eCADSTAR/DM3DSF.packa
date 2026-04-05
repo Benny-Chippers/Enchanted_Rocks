@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DM3D-SF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-17-16:36:04)
+    (mountForm default
+        (footprintRef "DM3DSF")
+        (spec "System")
+    )
+)

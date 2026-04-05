@@ -1,0 +1,109 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KMR731NG_LFS"
+   (description "IP67 Black Button Tactile Switch, SPST-NO 50 mA 2.11mm Surface Mount")
+   (family "SWI")
+   (package "KMR731NGLFS")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/KMR731NG LFS.pdf")
+   (attribute "Mouser Part Number" "611-KMR731NGLFS")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=611-KMR731NGLFS")
+   (attribute "Manufacturer_Name" "C & K COMPONENTS")
+   (attribute "Manufacturer_Part_Number" "KMR731NG LFS")
+   (gate
+    (symbol "KMR731NG_LFS")
+    (pin "NO_1" 1 PS)
+    (pin "NO_2" 2 PS)
+    (pin "COM_1" 3 PS)
+    (pin "COM_2" 4 PS)
+   )
+  )
+  (symbol "KMR731NG_LFS"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "KMR731NGLFS"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.1 1.4)
+      (pt 2.1 1.4)
+      (pt 2.1 -1.4)
+      (pt -2.1 -1.4)
+      (pt -2.1 1.4))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.5 2.4)
+      (pt 3.5 2.4)
+      (pt 3.5 -2.4)
+      (pt -3.5 -2.4)
+      (pt -3.5 2.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1 1.4)
+      (pt 1 1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1 -1.4)
+      (pt 1 -1.4))))
+   (leg 1 (pt -2.050 -0.800) (padstack 0))
+   (leg 2 (pt 2.050 -0.800) (padstack 0))
+   (leg 3 (pt 2.050 0.800) (padstack 0))
+   (leg 4 (pt -2.050 0.800) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.900 1.000 0 0 90.000))
+   )
+   (model "KMR731NG_LFS.stp"
+    (euler -90 180 180)
+    (offset 0 0 1.399999976158142)
+   )
+  )
+ )
+)

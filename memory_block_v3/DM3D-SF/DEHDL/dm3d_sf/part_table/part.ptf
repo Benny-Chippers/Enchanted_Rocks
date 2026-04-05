@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DM3D_SF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hirose", "DM3D-SF" (!) = "", "DM3DSF", "Other", "798-DM3D-SF", "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/DM3D-SF?qs=nSryOFbzj8L3f0GFYlvXkw%3D%3D", "Micro SD card push pull manual", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000141252.pdf", "1.55 mm"
+END_PART
+
+END.

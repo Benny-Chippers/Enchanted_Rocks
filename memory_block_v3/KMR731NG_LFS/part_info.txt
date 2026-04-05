@@ -1,0 +1,9 @@
+Manufacturer=C & K COMPONENTS
+PartNumber=KMR731NG LFS
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=5.3
+Released=2018-04-11 15:37:20
+Downloaded=2025-11-09 04:30:38
+3D=Y
