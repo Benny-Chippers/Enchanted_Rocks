@@ -1,0 +1,361 @@
+Info: Processing symbol 'C1:'.
+Info: Processing symbol 'R32:'.
+Info: Processing symbol 'C2:'.
+Info: Processing symbol 'R33:'.
+Info: Processing symbol 'C3:'.
+Info: Processing symbol 'R34:'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C16:'.
+Info: Processing symbol 'R35:'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C30:'.
+Info: Processing symbol 'R36:'.
+Info: Processing symbol 'C31:'.
+Info: Processing symbol 'R37:'.
+Info: Processing symbol 'C32:'.
+Info: Processing symbol 'R38:'.
+Info: Processing symbol 'C33:'.
+Info: Processing symbol 'R39:'.
+Info: Processing symbol 'C34:'.
+Info: Processing symbol 'R40:'.
+Info: Processing symbol 'C35:'.
+Info: Processing symbol 'C59:'.
+Info: Processing symbol 'C36:'.
+Info: Processing symbol 'R41:'.
+Info: Processing symbol 'C37:'.
+Info: Processing symbol 'R42:'.
+Info: Processing symbol 'C38:'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C40:'.
+Info: Processing symbol 'R44:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C41:'.
+Info: Processing symbol 'R45:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C42:'.
+Info: Processing symbol 'R46:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C44:'.
+Info: Processing symbol 'R47:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C45:'.
+Info: Processing symbol 'R48:'.
+Info: Processing symbol 'C46:'.
+Info: Processing symbol 'R49:'.
+Info: Processing symbol 'C47:'.
+Info: Processing symbol 'R50:'.
+Info: Processing symbol 'C48:'.
+Info: Processing symbol 'R51:'.
+Info: Processing symbol 'C49:'.
+Info: Processing symbol 'R52:'.
+Info: Processing symbol 'C50:'.
+Info: Processing symbol 'R53:'.
+Info: Processing symbol 'C51:'.
+Info: Processing symbol 'R54:'.
+Info: Processing symbol 'C52:'.
+Info: Processing symbol 'R55:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C53:'.
+Info: Processing symbol 'R56:'.
+Info: Processing symbol 'C54:'.
+Info: Processing symbol 'R57:'.
+Info: Processing symbol 'C55:'.
+Info: Processing symbol 'R58:'.
+Info: Processing symbol 'C56:'.
+Info: Processing symbol 'R59:'.
+Info: Processing symbol 'C57:'.
+Info: Processing symbol 'R60:'.
+Info: Processing symbol 'C58:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R61:'.
+Info: Processing symbol 'R62:'.
+Info: Processing symbol 'C60:'.
+Info: Processing symbol 'R63:'.
+Info: Processing symbol 'C61:'.
+Info: Processing symbol 'R64:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C62:'.
+Info: Processing symbol 'R65:'.
+Info: Processing symbol 'C63:'.
+Info: Processing symbol 'S1:FPGA_Interface:PTS647SM38SMTR2LFS'.
+Info: Processing symbol 'C64:'.
+Info: Processing symbol 'S2:FPGA_Interface:PTS647SM38SMTR2LFS'.
+Info: Processing symbol 'C65:'.
+Info: Processing symbol 'S3:PTS647SM38SMTR2LFS'.
+Info: Processing symbol 'C66:'.
+Info: Processing symbol 'S4:PTS647SM38SMTR2LFS'.
+Info: Processing symbol 'C67:SB:CAPAE430X565N'.
+Info: Processing symbol 'C68:SB:CAPAE430X565N'.
+Info: Processing symbol 'C69:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C70:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C71:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C72:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C73:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C74:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C75:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C76:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C77:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C78:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C79:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C80:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C81:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C82:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C83:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C84:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C85:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C86:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C87:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C88:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C89:'.
+Info: Processing symbol 'S5:FPGA_Interface:PTS647SM38SMTR2LFS'.
+Info: Processing symbol 'C90:'.
+Info: Processing symbol 'U1:NB:256_W25Q128JV'.
+Info: Processing symbol 'C91:'.
+Info: Processing symbol 'U2:FPGA&amp;MCU:CHIP_100.000MHZ-LC-T_ABR'.
+Info: Processing symbol 'C92:'.
+Info: Processing symbol 'U3:FPGA_Power:CYPD3177-24LQXQT_INF'.
+Info: Processing symbol 'C93:'.
+Info: Processing symbol 'R7:'.
+Info: Processing symbol 'C94:'.
+Info: Processing symbol 'U4:FPGA_Power:AP63205WU-7'.
+Info: Processing symbol 'C95:'.
+Info: Processing symbol 'U5:FPGA_Power:MP8756'.
+Info: Processing symbol 'D1:'.
+Info: Processing symbol 'U6:FPGA_Power:TPS62054DGS'.
+Info: Processing symbol 'IC2:TAD5242IRGER'.
+Info: Processing symbol 'U7:USBLC6-2SC6:SOT95P280X145-6N'.
+Info: Processing symbol 'J1:NB:4677'.
+Info: Processing symbol 'J2:FPGA_Interface:DM3D-SF'.
+Info: Processing symbol 'J3:FPGA_Interface:USB4105-GF-A-060'.
+Info: Processing symbol 'J4:FPGA_Interface:USB4105-GF-A-060'.
+Info: Processing symbol 'J5:USB_HUB:OST_USB-A1HSW6'.
+Info: Processing symbol 'J6:USB_HUB:OST_USB-A1HSW6'.
+Info: Processing symbol 'J7:FPGA_Interface:CONN_L77HDE15SD1CH4F_AMP'.
+Info: Processing symbol 'U8:USBLC6-2SC6:SOT95P280X145-6N'.
+Info: Processing symbol 'U10:TSOP-5_ONS'.
+Info: Processing symbol 'J9:SJ335083ATR'.
+Info: Processing symbol 'U11:USB_HUB:USB2513BM2'.
+Info: Processing symbol 'J11:FPGA_Interface:CONN-TH_2P-P5.00_CPC3703CTR'.
+Info: Processing symbol 'U12:FPGA&amp;MCU:FT4232HPQ'.
+Info: Processing symbol 'J12:FPGA_Interface:CONN-TH_2P-P5.00_CPC3703CTR'.
+Info: Processing symbol 'U13:FPGA&amp;MCU:XC7S15_FTGB196_AMD'.
+Info: Processing symbol 'J13:FPGA_Interface:CONN-TH_2P-P5.00_CPC3703CTR'.
+Info: Processing symbol 'U14:FPGA&amp;MCU:ESP32-WROOM-32UE_EXP'.
+Info: Processing symbol 'L1:Inductor_SMD:L_APV_ANR5020'.
+Info: Processing symbol 'L2:Inductor_SMD:L_TechFuse_SL0624'.
+Info: Processing symbol 'L3:'.
+Info: Processing symbol 'U15:ESP32-WROOM-32UE_EXP'.
+Info: Processing symbol 'L4:'.
+Info: Processing symbol 'U16:FPGA_Power:MMSZ10T1G'.
+Info: Processing symbol 'Q1:FPGA_Power:IRF9358TRPBF'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'U17:QFN28_5X5_SIL'.
+Info: Processing symbol 'R2:'.
+Info: Processing symbol 'U18:FPGA_Power:TPS62132RGTR'.
+Info: Processing symbol 'R3:'.
+Info: Processing symbol 'X1:USB_HUB:CRYSTAL-SMD_4P-L2.0-W1.6-BL'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R5:'.
+Info: Processing symbol 'X2:ProLib_pcs_2026-02-07:CRYSTAL-SMD_4P-L3.2-W2.5-BL'.
+Info: Processing symbol 'R6:'.
+Info: Total warnings: 10, errors: 108.
+Info: Processing symbol 'U9:TSOP-5_ONS'.
+Info: Processing symbol 'R8:'.
+Info: Processing symbol 'R9:'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R11:'.
+Info: Processing symbol 'R12:'.
+Info: Processing symbol 'R13:'.
+Info: Processing symbol 'R14:'.
+Info: Processing symbol 'R15:'.
+Info: Processing symbol 'R16:'.
+Info: Processing symbol 'R17:'.
+Info: Processing symbol 'R18:'.
+Info: Processing symbol 'R19:'.
+Info: Processing symbol 'R20:'.
+Info: Processing symbol 'R21:'.
+Info: Processing symbol 'R22:'.
+Info: Processing symbol 'R23:'.
+Info: Processing symbol 'R24:'.
+Info: Processing symbol 'R25:'.
+Info: Processing symbol 'R26:'.
+Info: Processing symbol 'R27:'.
+Info: Processing symbol 'R28:'.
+Info: Processing symbol 'R29:'.
+Info: Processing symbol 'R30:'.
+Info: Processing symbol 'R31:'.
+Change J9 footprint from 'FPGA_Interface:SJ335083ATR' to 'SJ335083ATR'.
+Update J11 fields.
+Update J12 fields.
+Update J13 fields.
+Add net Net-(U18-PG).
+Change IC2 footprint from 'SB:TAD5242IRGER' to 'TAD5242IRGER'.
+Reconnect U18 pin 4 from unconnected-(U18-PG-Pad4) to Net-(U18-PG).
+Reconnect U18 pin 11 from Net-(U18-PVIN-Pad11) to 9V0.
+Change S3 footprint from 'FPGA_Interface:PTS647SM38SMTR2LFS' to 'PTS647SM38SMTR2LFS'.
+Change S4 footprint from 'FPGA_Interface:PTS647SM38SMTR2LFS' to 'PTS647SM38SMTR2LFS'.
+Update X1 fields.
+
+
+Add net Net-(U5-VCC).
+Reconnect U5 pin 9 from Net-(U5-MODE) to Net-(U5-VCC).
+Reconnect U5 pin 6 from Net-(U5-MODE) to GND.
+Change U9 footprint from 'USB_HUB:TSOP-5_ONS' to 'TSOP-5_ONS'.
+Change U10 footprint from 'USB_HUB:TSOP-5_ONS' to 'TSOP-5_ONS'.
+Update U11 fields.
+Reconnect U18 pin 8 from unconnected-(U18-DEF-Pad8) to GND.
+Change U15 footprint from 'FPGA&amp;MCU:ESP32-WROOM-32UE_EXP' to 'ESP32-WROOM-32UE_EXP'.
+Reconnect U18 pin 6 from unconnected-(U18-AGND-Pad6) to GND.
+Reconnect U18 pin 12 from Net-(U18-PVIN-Pad11) to 9V0.
+Reconnect U18 pin 16 from Net-(U18-EPAD) to GND.
+Add net Net-(U18-VOS).
+Reconnect U18 pin 14 from unconnected-(U18-VOS-Pad14) to Net-(U18-VOS).
+Reconnect U18 pin 13 from unconnected-(U18-EN-Pad13) to 9V0.
+Reconnect U18 pin 10 from unconnected-(U18-AVIN-Pad10) to 9V0.
+Reconnect U18 pin 7 from unconnected-(U18-FSW-Pad7) to GND.
+Reconnect U18 pin 1 from Net-(U18-SW-Pad1) to Net-(U18-VOS).
+Reconnect U18 pin 17 from Net-(U18-EPAD) to GND.
+Add net Net-(U18-FB).
+Reconnect U18 pin 5 from unconnected-(U18-FB-Pad5) to Net-(U18-FB).
+Reconnect U18 pin 15 from Net-(U18-EPAD) to GND.
+Reconnect U18 pin 3 from Net-(U18-SW-Pad1) to Net-(U18-VOS).
+Reconnect U18 pin 2 from Net-(U18-SW-Pad1) to Net-(U18-VOS).
+Warning: No net found for component U4 pad 8 (no pin 8 in symbol).
+Warning: No net found for component J7 pad None (no pin None in symbol).
+Warning: No net found for component J7 pad None (no pin None in symbol).
+Warning: No net found for component U4 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U4 pad 10 (no pin 10 in symbol).
+Warning: No net found for component U4 pad 9 (no pin 9 in symbol).
+Warning: No net found for component U18 pad V (no pin V in symbol).
+Warning: No net found for component U18 pad V (no pin V in symbol).
+Warning: No net found for component U18 pad V (no pin V in symbol).
+Warning: No net found for component U18 pad V (no pin V in symbol).
+Error: Cannot add C89 (no footprint assigned).
+Error: Cannot add C90 (no footprint assigned).
+Error: Cannot add C91 (no footprint assigned).
+Error: Cannot add C92 (no footprint assigned).
+Error: Cannot add C94 (no footprint assigned).
+Error: Cannot add C95 (no footprint assigned).
+Error: Cannot add D1 (no footprint assigned).
+Error: Cannot add L3 (no footprint assigned).
+Error: Cannot add L4 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add R2 (no footprint assigned).
+Error: Cannot add R3 (no footprint assigned).
+Error: Cannot add R5 (no footprint assigned).
+Error: Cannot add R13 (no footprint assigned).
+Error: Cannot add R52 (no footprint assigned).
+Error: Cannot add R30 (no footprint assigned).
+Error: Cannot add R53 (no footprint assigned).
+Error: Cannot add R19 (no footprint assigned).
+Error: Cannot add R54 (no footprint assigned).
+Error: Cannot add R31 (no footprint assigned).
+Error: Cannot add R7 (no footprint assigned).
+Error: Cannot add R56 (no footprint assigned).
+Error: Cannot add R32 (no footprint assigned).
+Error: Cannot add R57 (no footprint assigned).
+Error: Cannot add R20 (no footprint assigned).
+Error: Cannot add R58 (no footprint assigned).
+Error: Cannot add R33 (no footprint assigned).
+Error: Cannot add R59 (no footprint assigned).
+Error: Cannot add R14 (no footprint assigned).
+Error: Cannot add R60 (no footprint assigned).
+Error: Cannot add R34 (no footprint assigned).
+Error: Cannot add R6 (no footprint assigned).
+Error: Cannot add R21 (no footprint assigned).
+Error: Cannot add R62 (no footprint assigned).
+Error: Cannot add R35 (no footprint assigned).
+Error: Cannot add R63 (no footprint assigned).
+Error: Cannot add R11 (no footprint assigned).
+Error: Cannot add R36 (no footprint assigned).
+Error: Cannot add R65 (no footprint assigned).
+Error: Cannot add R22 (no footprint assigned).
+Error: Cannot add R37 (no footprint assigned).
+Error: Cannot add R15 (no footprint assigned).
+Error: Cannot add C1 (no footprint assigned).
+Error: Cannot add R38 (no footprint assigned).
+Error: Cannot add C2 (no footprint assigned).
+Error: Cannot add R23 (no footprint assigned).
+Error: Cannot add R39 (no footprint assigned).
+Error: Cannot add R9 (no footprint assigned).
+Error: Cannot add R40 (no footprint assigned).
+Error: Cannot add R24 (no footprint assigned).
+Error: Cannot add R61 (no footprint assigned).
+Error: Cannot add C3 (no footprint assigned).
+Error: Cannot add C16 (no footprint assigned).
+Error: Cannot add C30 (no footprint assigned).
+Error: Cannot add R41 (no footprint assigned).
+Error: Cannot add C31 (no footprint assigned).
+Error: Cannot add C32 (no footprint assigned).
+Error: Cannot add C33 (no footprint assigned).
+Error: Cannot add R16 (no footprint assigned).
+Error: Cannot add R42 (no footprint assigned).
+Error: Cannot add U7 (footprint 'USBLC6-2SC6:SOT95P280X145-6N' not found).
+Error: Cannot add R25 (no footprint assigned).
+Error: Cannot add U8 (footprint 'USBLC6-2SC6:SOT95P280X145-6N' not found).
+Error: Cannot add C93 (no footprint assigned).
+Error: Cannot add C34 (no footprint assigned).
+Error: Cannot add R12 (no footprint assigned).
+Error: Cannot add C36 (no footprint assigned).
+Error: Cannot add R26 (no footprint assigned).
+Error: Cannot add C37 (no footprint assigned).
+Error: Cannot add C38 (no footprint assigned).
+Error: Cannot add R27 (no footprint assigned).
+Error: Cannot add R8 (no footprint assigned).
+Error: Cannot add R48 (no footprint assigned).
+Error: Cannot add C40 (no footprint assigned).
+Error: Cannot add R28 (no footprint assigned).
+Error: Cannot add R49 (no footprint assigned).
+Error: Cannot add U17 (footprint 'QFN28_5X5_SIL' not found).
+Error: Cannot add R18 (no footprint assigned).
+Error: Cannot add C41 (no footprint assigned).
+Error: Cannot add C42 (no footprint assigned).
+Error: Cannot add C44 (no footprint assigned).
+Error: Cannot add C45 (no footprint assigned).
+Error: Cannot add C46 (no footprint assigned).
+Error: Cannot add C47 (no footprint assigned).
+Error: Cannot add C48 (no footprint assigned).
+Error: Cannot add C49 (no footprint assigned).
+Error: Cannot add C50 (no footprint assigned).
+Error: Cannot add C51 (no footprint assigned).
+Error: Cannot add R17 (no footprint assigned).
+Error: Cannot add C52 (no footprint assigned).
+Error: Cannot add C53 (no footprint assigned).
+Error: Cannot add C54 (no footprint assigned).
+Error: Cannot add C55 (no footprint assigned).
+Error: Cannot add C56 (no footprint assigned).
+Error: Cannot add C57 (no footprint assigned).
+Error: Cannot add C35 (no footprint assigned).
+Error: Cannot add C59 (no footprint assigned).
+Error: Cannot add C60 (no footprint assigned).
+Error: Cannot add C61 (no footprint assigned).
+Error: Cannot add C62 (no footprint assigned).
+Error: Cannot add C63 (no footprint assigned).
+Error: Cannot add R50 (no footprint assigned).
+Error: Cannot add C64 (no footprint assigned).
+Error: Cannot add R29 (no footprint assigned).
+Error: Cannot add X2 (footprint 'ProLib_pcs_2026-02-07:CRYSTAL-SMD_4P-L3.2-W2.5-BL' not found).
+Error: Cannot add C65 (no footprint assigned).
+Error: Cannot add C66 (no footprint assigned).
+Error: Cannot add R51 (no footprint assigned).
+
+
+Info: Total warnings: 10, errors: 108.
