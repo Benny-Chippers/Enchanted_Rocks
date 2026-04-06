@@ -1,0 +1,9 @@
+Manufacturer=Hirose
+PartNumber=DM3D-SF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=3.4
+Released=2020-09-16 15:18:43
+Downloaded=2025-10-26 06:24:32
+3D=Y
