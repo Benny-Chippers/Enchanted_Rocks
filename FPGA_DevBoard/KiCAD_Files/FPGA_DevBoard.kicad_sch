@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "29dacc10-fb0d-42da-8b4b-fe903faf3f1a")
 	(paper "A3")
 	(lib_symbols)
@@ -8032,11 +8032,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "0234104c-5c7a-412d-afd7-9cfe7478c407")
 		(property "Sheetname" "USB_IN"
 			(at 44.45 45.0084 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8046,6 +8048,8 @@
 		)
 		(property "Sheetfile" "USB_IN.kicad_sch"
 			(at 44.45 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8074,11 +8078,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "3a4f201e-91d1-46c6-b180-b9c29ee81c31")
 		(property "Sheetname" "NorthBridge"
 			(at 44.45 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8088,6 +8094,8 @@
 		)
 		(property "Sheetfile" "NorthBridge.kicad_sch"
 			(at 44.45 41.2246 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8116,11 +8124,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "9e1647cc-992e-4ffb-84d3-55bf3762f2a3")
 		(property "Sheetname" "USB_HUB"
 			(at 15.24 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8130,6 +8140,8 @@
 		)
 		(property "Sheetfile" "USB_HUB.kicad_sch"
 			(at 15.24 71.7046 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8158,11 +8170,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "9f3372dd-c4cd-4e98-a06a-d48a7fd00c4b")
 		(property "Sheetname" "FPGA_UNIT_B"
 			(at 44.45 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8172,6 +8186,8 @@
 		)
 		(property "Sheetfile" "FPGA_UNIT_B.kicad_sch"
 			(at 44.45 25.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8200,11 +8216,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "bc46cd02-cf2e-4849-968d-023aac43b30e")
 		(property "Sheetname" "Power"
 			(at 14.986 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8214,6 +8232,8 @@
 		)
 		(property "Sheetfile" "Power.kicad_sch"
 			(at 14.986 41.2246 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8242,11 +8262,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "f7a80be1-c773-4d61-a2a3-9f7c03a69ae0")
 		(property "Sheetname" "FPGA_UNIT_A"
 			(at 14.986 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8256,6 +8278,8 @@
 		)
 		(property "Sheetfile" "FPGA_UNIT_A.kicad_sch"
 			(at 14.986 25.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8284,11 +8308,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "fe3059ee-eacc-43e0-b8fb-e8333ff871ae")
 		(property "Sheetname" "SouthBridge"
 			(at 14.986 45.0084 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8298,6 +8324,8 @@
 		)
 		(property "Sheetfile" "SouthBridge.kicad_sch"
 			(at 14.986 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
