@@ -7351,10 +7351,6 @@
 		)
 		(instances
 			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/3a4f201e-91d1-46c6-b180-b9c29ee81c31"
-					(reference "C67")
-					(unit 1)
-				)
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/fe3059ee-eacc-43e0-b8fb-e8333ff871ae"
 					(reference "C67")
 					(unit 1)

@@ -3771,30 +3771,6 @@
 		)
 		(uuid "fc488054-1ac7-480b-99e1-c903520bef5b")
 	)
-	(global_label "NBSB_RX"
-		(shape input)
-		(at 48.26 77.47 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "02825909-83cb-435d-8ff4-8aa2505783c3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.7477 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "VSPI_D2"
 		(shape input)
 		(at 104.14 97.79 0)
@@ -4152,30 +4128,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "NBSB_TX"
-		(shape input)
-		(at 48.26 74.93 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f011ef1e-9923-479f-967a-39cea1abf2fc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.0501 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
