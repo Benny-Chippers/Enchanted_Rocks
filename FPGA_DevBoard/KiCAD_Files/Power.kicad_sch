@@ -5,212 +5,6 @@
 	(uuid "67380a21-4019-46b3-af39-d97b8a4a942d")
 	(paper "A3")
 	(lib_symbols
-		(symbol "Connector:Screw_Terminal_01x02"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Screw_Terminal_01x02"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "screw terminal"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "TerminalBlock*:*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Screw_Terminal_01x02_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3556 0.508) (xy 0.508 -0.3302)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 -2.54)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -5110,12 +4904,6 @@
 		(uuid "36ac40d9-f6d9-4af4-a5a0-55da7d229b28")
 	)
 	(junction
-		(at 146.05 186.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "36cc4450-b21d-40ef-a0cf-d3b3f84b1083")
-	)
-	(junction
 		(at 26.67 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5236,12 +5024,6 @@
 		(uuid "86722a1c-3c8e-479e-bef1-b4e2ae0036d4")
 	)
 	(junction
-		(at 154.94 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8841bc55-8f9a-42a2-86b5-e76da649c5d8")
-	)
-	(junction
 		(at 367.03 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5288,12 +5070,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a62b0a90-73cf-46cc-9082-59b99f177b6d")
-	)
-	(junction
-		(at 140.97 245.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7fa194b-4070-4232-b44e-050b488e0112")
 	)
 	(junction
 		(at 67.31 149.86)
@@ -5727,16 +5503,6 @@
 			(type default)
 		)
 		(uuid "13b0b2cf-7022-4e3d-bfc4-b34d145007a7")
-	)
-	(wire
-		(pts
-			(xy 200.66 142.24) (xy 195.58 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13e61721-0f00-48e0-8c97-874e52f0194f")
 	)
 	(wire
 		(pts
@@ -6351,16 +6117,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 176.53) (xy 146.05 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "540a22c3-6014-4914-94c2-f5706a799214")
-	)
-	(wire
-		(pts
 			(xy 138.43 125.73) (xy 138.43 127)
 		)
 		(stroke
@@ -6619,16 +6375,6 @@
 			(type default)
 		)
 		(uuid "71161733-295a-4597-a52f-663cc507f62a")
-	)
-	(wire
-		(pts
-			(xy 142.24 45.72) (xy 154.94 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "718f16c8-8387-4245-b055-0f1f1c92bce2")
 	)
 	(wire
 		(pts
@@ -6942,7 +6688,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 186.69) (xy 146.05 186.69)
+			(xy 143.51 186.69) (xy 152.4 186.69)
 		)
 		(stroke
 			(width 0)
@@ -6992,16 +6738,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 40.64) (xy 195.58 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f407573-e8fb-4ff0-b2f9-0db35a9c3d97")
-	)
-	(wire
-		(pts
 			(xy 50.8 189.23) (xy 60.96 189.23)
 		)
 		(stroke
@@ -7029,16 +6765,6 @@
 			(type default)
 		)
 		(uuid "a5529129-c94a-42bc-ae96-1c0b2ff0b0d0")
-	)
-	(wire
-		(pts
-			(xy 140.97 245.11) (xy 144.78 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6471dcd-708c-463e-8669-68cc47a5f416")
 	)
 	(wire
 		(pts
@@ -7301,16 +7027,6 @@
 		)
 		(uuid "c47a68ea-5dfa-4bae-811f-68098eea62c3")
 	)
-	(wire
-		(pts
-			(xy 146.05 186.69) (xy 143.51 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c54b6e1f-b465-4556-9f0b-074ff7af04cb")
-	)
 	(polyline
 		(pts
 			(xy 11.938 157.48) (xy 178.054 157.48)
@@ -7331,16 +7047,6 @@
 			(type default)
 		)
 		(uuid "c7097a1e-13ca-4de6-9d59-2a3c9208692f")
-	)
-	(wire
-		(pts
-			(xy 154.94 34.29) (xy 154.94 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7c0284d-7013-4589-9724-47d7690ff53e")
 	)
 	(wire
 		(pts
@@ -7424,16 +7130,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 234.95) (xy 140.97 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0a8deb0-b2e3-4e4f-8b24-8f84034c9295")
-	)
-	(wire
-		(pts
 			(xy 325.12 71.12) (xy 322.58 71.12)
 		)
 		(stroke
@@ -7504,7 +7200,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 245.11) (xy 140.97 245.11)
+			(xy 138.43 245.11) (xy 144.78 245.11)
 		)
 		(stroke
 			(width 0)
@@ -7684,17 +7380,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 45.72) (xy 158.75 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "edcb7825-2293-4b6e-814f-ae63de6ba064")
-	)
-	(wire
-		(pts
-			(xy 110.49 45.72) (xy 142.24 45.72)
+			(xy 110.49 45.72) (xy 158.75 45.72)
 		)
 		(stroke
 			(width 0)
@@ -8968,84 +8654,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+1V0")
-		(at 193.04 40.64 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "16979260-7f16-4a67-a083-51ad5b1b8292")
-		(property "Reference" "#PWR0113"
-			(at 193.04 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+1V0"
-			(at 193.04 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 193.04 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 193.04 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V0\""
-			(at 193.04 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f852338d-3621-40fc-94bd-a46d27caf654")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "#PWR0113")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 138.43 248.92 0)
 		(unit 1)
@@ -9358,86 +8966,6 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
 					(reference "#PWR0102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 140.97 176.53 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2ab22c7c-a66b-4d76-a295-6a1a2b665c1e")
-		(property "Reference" "J11"
-			(at 140.97 167.64 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 140.97 170.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "FPGA_Interface:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 140.97 176.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 176.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 140.97 176.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d3de125e-6f7c-43be-a0a4-0fddc3bcbc61")
-		)
-		(pin "2"
-			(uuid "ad7ed46a-1fbe-4910-92b7-710603006014")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -9840,88 +9368,6 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
 					(reference "#PWR0118")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 193.04 35.56 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "33302539-aac0-49b7-9ee6-478fd8e875e4")
-		(property "Reference" "J8"
-			(at 198.12 34.2899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 198.12 36.8299 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "FPGA_Interface:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 193.04 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 193.04 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 193.04 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "4b33c0f4-de3a-419c-a02f-bab01d9cc102")
-		)
-		(pin "1"
-			(uuid "01d0fa0e-d7fb-4a5d-bbe1-05c6f4b80390")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -10469,84 +9915,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 193.04 142.24 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "48875318-b4b4-4c14-9bf8-5c455f373445")
-		(property "Reference" "#PWR0121"
-			(at 193.04 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 193.04 147.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 193.04 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 193.04 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 193.04 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e648abc3-693c-43b5-9a4f-0d39aba379f3")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "#PWR0121")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 111.76 242.57 90)
 		(unit 1)
@@ -11034,85 +10402,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 146.05 173.99 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5a6094fe-7f0b-4de1-826c-90b2bec62ce0")
-		(property "Reference" "#PWR0174"
-			(at 152.4 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 149.86 173.9899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 146.05 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 146.05 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f059519b-c18e-45fb-8ae8-08cc41750354")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "#PWR0174")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 306.07 58.42 90)
 		(unit 1)
@@ -11438,88 +10727,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 193.04 137.16 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "691caa03-b80a-4e5d-bfb9-c3fbb707171e")
-		(property "Reference" "J10"
-			(at 198.12 135.8899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 198.12 138.4299 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "FPGA_Interface:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 193.04 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 193.04 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 193.04 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "866bc8dd-b781-45aa-876a-d7cc4ad99fc6")
-		)
-		(pin "1"
-			(uuid "69f117ce-faf5-4d9b-ab1d-31feba4e0d6a")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "FPGA_Interface:USB4105-GF-A-060")
 		(at 45.72 129.54 0)
 		(unit 1)
@@ -11685,85 +10892,6 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 154.94 31.75 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6eb67ac8-ff28-404a-8daf-dc8b574c9774")
-		(property "Reference" "#PWR0176"
-			(at 161.29 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 158.75 31.7499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 154.94 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 154.94 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5d4267a5-880e-4f85-8e30-4f4262f71382")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "#PWR0176")
 					(unit 1)
 				)
 			)
@@ -11955,6 +11083,7 @@
 		)
 		(property "Value" "+1V8"
 			(at 144.78 240.03 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12563,84 +11692,6 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
 					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 200.66 142.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "82aca61c-398c-4bd1-be20-10d92b4a767a")
-		(property "Reference" "#PWR0122"
-			(at 200.66 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 200.66 147.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 200.66 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 200.66 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 200.66 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5e792db9-a2a0-447c-abbe-bc4ef2330c2f")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -13367,85 +12418,6 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
 					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 140.97 232.41 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "98b86000-ab7f-4e3e-9616-3451debb30a5")
-		(property "Reference" "#PWR0175"
-			(at 147.32 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 144.78 232.4099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7ff97047-29af-4a99-abc2-e213ae29a4f4")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "#PWR0175")
 					(unit 1)
 				)
 			)
@@ -14723,84 +13695,6 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
 					(reference "#PWR0103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 200.66 40.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b6f5a11a-aa18-49ea-8db2-142a7c706735")
-		(property "Reference" "#PWR0114"
-			(at 200.66 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 200.66 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 200.66 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 200.66 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 200.66 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3f1cc739-9931-4770-bd11-b374f2d0bcda")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -16213,86 +15107,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 149.86 34.29 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ed2570ae-1269-420b-ad6a-075addcecdb4")
-		(property "Reference" "J13"
-			(at 149.86 25.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 149.86 27.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "FPGA_Interface:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 149.86 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 149.86 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "61015aea-915b-4344-b00f-514a6feda87d")
-		)
-		(pin "2"
-			(uuid "efa08859-ea95-4204-90f1-d54ad676ec18")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "J13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 370.84 85.09 0)
 		(unit 1)
@@ -16526,86 +15340,6 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
 					(reference "C29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 135.89 234.95 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f72fc661-c844-4b3c-bfd3-898142dd5baf")
-		(property "Reference" "J12"
-			(at 135.89 226.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 135.89 228.6 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "FPGA_Interface:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 135.89 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 135.89 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "19286652-91ed-4f84-8f18-ab2382bb514f")
-		)
-		(pin "2"
-			(uuid "02bc37ee-1fd1-477e-b36d-8583ebcaea43")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/bc46cd02-cf2e-4849-968d-023aac43b30e"
-					(reference "J12")
 					(unit 1)
 				)
 			)
