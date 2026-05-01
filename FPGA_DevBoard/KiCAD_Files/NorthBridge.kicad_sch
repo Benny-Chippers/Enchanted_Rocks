@@ -3188,6 +3188,10 @@
 		(uuid "24ac7824-ca77-4171-b822-4d115bb2fa14")
 	)
 	(no_connect
+		(at 76.2 69.85)
+		(uuid "32dd0442-40cc-4491-97a6-6ef4b6e82910")
+	)
+	(no_connect
 		(at 339.09 134.62)
 		(uuid "3bbb6e8b-31b1-417e-a09f-623b6dcb9243")
 	)
@@ -3214,6 +3218,10 @@
 	(no_connect
 		(at 318.77 55.88)
 		(uuid "9b4da305-b84a-4361-9a89-097b1a381991")
+	)
+	(no_connect
+		(at 76.2 72.39)
+		(uuid "9cfc8c06-aa01-44dd-8eb5-055e8a622c1b")
 	)
 	(no_connect
 		(at 316.23 102.87)
@@ -4124,30 +4132,6 @@
 			)
 		)
 	)
-	(global_label "GPIO_21"
-		(shape input)
-		(at 153.67 66.04 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2b30f196-5e79-44d2-bcc7-6272ebbee20c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.5171 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "NBSB_RX"
 		(shape input)
 		(at 127 87.63 0)
@@ -4401,30 +4385,6 @@
 		(uuid "d7db1026-5a38-4b7d-90af-224402223139")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 170.6252 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO_4"
-		(shape input)
-		(at 153.67 63.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "dd34cb21-ba8d-458c-bf20-32fa58b51350")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.3076 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

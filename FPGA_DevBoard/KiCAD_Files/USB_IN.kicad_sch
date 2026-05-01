@@ -4640,16 +4640,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 78.74) (xy 254 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93018d3c-457a-44f6-875c-b2a663c322c6")
-	)
-	(wire
-		(pts
 			(xy 146.05 125.73) (xy 151.13 125.73)
 		)
 		(stroke
@@ -5070,7 +5060,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 78.74) (xy 240.03 78.74)
+			(xy 234.95 78.74) (xy 254 78.74)
 		)
 		(stroke
 			(width 0)
@@ -8598,85 +8588,6 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/0234104c-5c7a-412d-afd7-9cfe7478c407"
 					(reference "#PWR0142")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 243.84 78.74 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8ab8ffa0-e53f-4d6e-84c9-d11da437047a")
-		(property "Reference" "R82"
-			(at 248.412 79.756 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 239.776 79.756 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 243.586 79.756 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 243.84 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 243.84 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6ae2f37e-03c6-4bf4-90e3-4762f665485e")
-		)
-		(pin "2"
-			(uuid "babe5887-1113-4501-a555-72e43dd1b932")
-		)
-		(instances
-			(project "FPGA_DevBoard"
-				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/0234104c-5c7a-412d-afd7-9cfe7478c407"
-					(reference "R82")
 					(unit 1)
 				)
 			)

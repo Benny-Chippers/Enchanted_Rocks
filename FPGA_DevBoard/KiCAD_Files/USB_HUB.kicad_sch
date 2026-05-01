@@ -3322,6 +3322,26 @@
 		)
 		(uuid "026b45c5-9918-43e2-857a-66cbd15556b0")
 	)
+	(text ""
+		(exclude_from_sim no)
+		(at 82.55 102.108 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "c7bbc949-beb7-4603-933e-8b0b84167023")
+	)
+	(text "Copied from FTDI"
+		(exclude_from_sim no)
+		(at 91.948 101.6 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "e7a8decd-2385-4d08-806f-4a36d9fe95c9")
+	)
 	(text "USB ports, filtering for 5V\n"
 		(exclude_from_sim no)
 		(at 65.532 112.776 0)
@@ -4010,6 +4030,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 53.34) (xy 179.07 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69f81d94-cccb-4a10-bb97-6fc3737a73a6")
+	)
+	(wire
+		(pts
 			(xy 35.56 96.52) (xy 35.56 99.06)
 		)
 		(stroke
@@ -4097,16 +4127,6 @@
 			(type default)
 		)
 		(uuid "82e28f59-bf3a-4cef-a66c-5701024ded32")
-	)
-	(wire
-		(pts
-			(xy 160.02 53.34) (xy 179.07 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8459b1cf-b06e-43c9-b776-9a08fb66673e")
 	)
 	(wire
 		(pts
@@ -4759,7 +4779,7 @@
 		(uuid "7d83ffe2-cd33-4e24-b661-6d92a1fdef34")
 	)
 	(label "USB2+"
-		(at 172.72 55.88 180)
+		(at 179.07 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4819,7 +4839,7 @@
 		(uuid "b3030083-889d-4b5a-8057-f9658d8b5076")
 	)
 	(label "USB2-"
-		(at 172.72 53.34 180)
+		(at 177.8 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5907,8 +5927,8 @@
 				)
 			)
 		)
-		(property "Value" "33"
-			(at 160.02 54.864 90)
+		(property "Value" "33 +- 1%"
+			(at 164.846 54.864 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7230,8 +7250,8 @@
 				)
 			)
 		)
-		(property "Value" "33"
-			(at 160.02 52.324 90)
+		(property "Value" "33 +- 1%"
+			(at 164.592 52.324 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8081,8 +8101,8 @@
 				)
 			)
 		)
-		(property "Value" "33"
-			(at 163.83 117.094 90)
+		(property "Value" "33 +- 1%"
+			(at 167.64 117.094 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8160,8 +8180,8 @@
 				)
 			)
 		)
-		(property "Value" "33"
-			(at 163.83 119.634 90)
+		(property "Value" "33 +- 1%"
+			(at 168.148 119.634 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
