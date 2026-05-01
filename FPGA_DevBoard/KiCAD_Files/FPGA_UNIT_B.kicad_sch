@@ -13426,7 +13426,7 @@
 				)
 			)
 		)
-		(property "Value" "1.1k"
+		(property "Value" "2.2k"
 			(at 251.46 48.006 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14436,7 +14436,7 @@
 				)
 			)
 		)
-		(property "Value" "1.1k"
+		(property "Value" "2.2k"
 			(at 251.46 79.756 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15523,7 +15523,7 @@
 				)
 			)
 		)
-		(property "Value" "560"
+		(property "Value" "1.1k"
 			(at 251.46 77.216 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16396,7 +16396,7 @@
 				)
 			)
 		)
-		(property "Value" "270"
+		(property "Value" "560"
 			(at 251.46 42.926 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16691,7 +16691,7 @@
 				)
 			)
 		)
-		(property "Value" "1.1k"
+		(property "Value" "270"
 			(at 251.46 72.136 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16929,7 +16929,7 @@
 				)
 			)
 		)
-		(property "Value" "1.1k"
+		(property "Value" "2.2k"
 			(at 251.46 63.246 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18038,7 +18038,7 @@
 				)
 			)
 		)
-		(property "Value" "270"
+		(property "Value" "560"
 			(at 251.46 58.166 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19094,7 +19094,7 @@
 				)
 			)
 		)
-		(property "Value" "270"
+		(property "Value" "560"
 			(at 251.46 74.676 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22211,7 +22211,7 @@
 				)
 			)
 		)
-		(property "Value" "560"
+		(property "Value" "1.1k"
 			(at 251.46 45.466 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26841,7 +26841,7 @@
 				)
 			)
 		)
-		(property "Value" "560"
+		(property "Value" "1.1k"
 			(at 251.46 60.706 90)
 			(show_name no)
 			(do_not_autoplace no)

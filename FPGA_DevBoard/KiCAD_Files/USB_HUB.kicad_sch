@@ -3461,10 +3461,6 @@
 		(uuid "0be6e007-d6ca-45b6-afbf-824f737703a1")
 	)
 	(no_connect
-		(at 229.87 52.07)
-		(uuid "32d33eb1-cee9-4355-8230-a4d24e537292")
-	)
-	(no_connect
 		(at 229.87 57.15)
 		(uuid "34c3c195-831f-41a3-a4f2-c85b7df0cac0")
 	)
@@ -3591,6 +3587,16 @@
 			(type default)
 		)
 		(uuid "0a1e0278-a2df-4778-8a5e-f94483ba6fd2")
+	)
+	(wire
+		(pts
+			(xy 243.84 129.54) (xy 229.87 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b4e2349-97c8-4433-a4b5-7b1cba1e9497")
 	)
 	(wire
 		(pts
@@ -3821,6 +3827,16 @@
 			(type default)
 		)
 		(uuid "37e202de-0025-48a0-859f-fc36b9002713")
+	)
+	(wire
+		(pts
+			(xy 237.49 64.77) (xy 229.87 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bafafac-161a-4838-874b-346b75b2ff90")
 	)
 	(wire
 		(pts
@@ -4916,6 +4932,30 @@
 			)
 		)
 	)
+	(global_label "GPIO_20"
+		(shape input)
+		(at 229.87 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "13560ad5-dc4b-4a4e-ac49-58719f389c8b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 240.7171 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "GPIO_1"
 		(shape input)
 		(at 229.87 46.99 0)
@@ -4929,6 +4969,30 @@
 		(uuid "1f0c486a-7241-4736-9b9b-757853530a8d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 239.5076 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "Max2_Int"
+		(shape input)
+		(at 237.49 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2125d635-8c13-4afc-b3ca-e429c7daa01d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 248.7603 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5153,6 +5217,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "Max1_Int"
+		(shape input)
+		(at 243.84 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "86a73d48-2fa0-4e67-8e41-b028547ba12a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 255.1103 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
