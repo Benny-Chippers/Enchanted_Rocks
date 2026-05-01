@@ -5175,6 +5175,12 @@
 		(uuid "02d389f0-c670-481c-81ca-8eea730ad84c")
 	)
 	(junction
+		(at 184.15 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0907ff2e-d0d6-4c7a-ae96-21dab1b20b02")
+	)
+	(junction
 		(at 72.39 256.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5317,6 +5323,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e0539b8-7d2f-4b9c-bd23-2fb8734c74b1")
+	)
+	(junction
+		(at 186.69 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e19f928-132a-40c4-89cf-6ffccba82d18")
 	)
 	(junction
 		(at 27.94 114.3)
@@ -5934,6 +5946,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 78.74) (xy 189.23 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e41011f-34ab-43ee-ac43-349ae4bf58cf")
+	)
+	(wire
+		(pts
 			(xy 27.94 166.37) (xy 36.83 166.37)
 		)
 		(stroke
@@ -6324,6 +6346,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 78.74) (xy 184.15 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5920823-644e-4715-b7aa-e9dcb44d8bff")
+	)
+	(wire
+		(pts
 			(xy 57.15 173.99) (xy 67.31 173.99)
 		)
 		(stroke
@@ -6351,6 +6383,16 @@
 			(type default)
 		)
 		(uuid "cc6ebba0-d04c-4a6d-9656-ad53adde36a1")
+	)
+	(wire
+		(pts
+			(xy 186.69 93.98) (xy 189.23 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd6a6425-02ee-4cb0-bf60-0c916bfba7a3")
 	)
 	(wire
 		(pts
@@ -6531,6 +6573,16 @@
 			(type default)
 		)
 		(uuid "f394ed60-4fa7-4dd8-b49c-b2a0cbb08616")
+	)
+	(wire
+		(pts
+			(xy 184.15 93.98) (xy 186.69 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5cbcbc4-e909-4276-9710-6e43da967086")
 	)
 	(wire
 		(pts
@@ -7991,6 +8043,16 @@
 			(justify right bottom)
 		)
 		(uuid "941622f4-4536-47e9-a9db-3a59dbfdd579")
+	)
+	(label "Clk_Reset"
+		(at 165.1 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a004de56-d437-42bf-a148-c1896b4a453f")
 	)
 	(label "VCCBRAM"
 		(at 31.75 189.23 180)
@@ -10921,6 +10983,157 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/f7a80be1-c773-4d61-a2a3-9f7c03a69ae0"
 					(reference "#PWR0215")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "FPGA_Interface:PTS647SM38SMTR2_LFS")
+		(at 189.23 93.98 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "541eaf35-9167-4b39-9c36-2b19290971c9")
+		(property "Reference" "S7"
+			(at 182.88 85.0899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PTS647SM38SMTR2_LFS"
+			(at 182.88 87.6299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "FPGA_Interface:PTS647SM38SMTR2LFS"
+			(at 93.04 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.ckswitches.com/media/2567/pts647.pdf"
+			(at -6.96 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount 0.05A 12V"
+			(at 189.23 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at -206.96 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at -306.96 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at -406.96 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "C & K COMPONENTS"
+			(at -506.96 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PTS647SM38SMTR2 LFS"
+			(at -606.96 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "4"
+			(uuid "b0f0578d-cb9f-4d3e-9132-171acc50a077")
+		)
+		(pin "3"
+			(uuid "8c210ded-b330-4108-8f7f-f70a65bbbc69")
+		)
+		(pin "1"
+			(uuid "2ff69227-1cb2-498d-b7b2-e6b50749a846")
+		)
+		(pin "2"
+			(uuid "0b41b35e-5070-4b6a-bea5-1d03c7211bac")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/f7a80be1-c773-4d61-a2a3-9f7c03a69ae0"
+					(reference "S7")
 					(unit 1)
 				)
 			)
@@ -13982,6 +14195,85 @@
 			(project "FPGA_DevBoard"
 				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/f7a80be1-c773-4d61-a2a3-9f7c03a69ae0"
 					(reference "C78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 186.69 93.98 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc306f6b-ce61-4fe6-bae0-e670100ea765")
+		(property "Reference" "#PWR0249"
+			(at 186.69 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 186.69 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 186.69 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 186.69 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4fa04718-d98c-458c-9450-472beae9d5d0")
+		)
+		(instances
+			(project "FPGA_DevBoard"
+				(path "/29dacc10-fb0d-42da-8b4b-fe903faf3f1a/f7a80be1-c773-4d61-a2a3-9f7c03a69ae0"
+					(reference "#PWR0249")
 					(unit 1)
 				)
 			)
