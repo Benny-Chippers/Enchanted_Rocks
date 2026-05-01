@@ -86,34 +86,6 @@
           "Thermal disipation through hole"
         ],
         [
-          "copper_edge_clearance|162000000|42380000|b4201ea5-aed5-4be0-9568-ed1c8e7f9328|058d3b4d-8846-4c1f-978b-76721899ba7e",
-          "Needs to be this close due to it holding a connector"
-        ],
-        [
-          "copper_edge_clearance|162000000|51020000|84149a7b-2886-4fd6-a676-5f18743eff42|0c534267-dff4-4572-8d85-2649a9289b05",
-          "Needs to be this close due to it holding a connector"
-        ],
-        [
-          "copper_edge_clearance|51850046|31973589|69bdec38-7f69-4e1f-951f-676d27c40556|57c7ea10-0528-432f-8c2d-5b1eb3946c31",
-          "Needs to be this close due to it holding a connector"
-        ],
-        [
-          "copper_edge_clearance|60490000|31573554|eb143ea7-9995-473a-806a-d35937975d2d|692396fe-0980-454b-918c-04aa65975220",
-          "Needs to be this close due to it holding a connector"
-        ],
-        [
-          "lib_footprint_mismatch|136000000|78405000|7bab6f71-907e-44de-a3e5-d59691b3ca4c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|147014000|50750000|d38d730c-5d99-450e-83a3-7848b95cc397|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|49331350|110750000|1c591cd2-3dd0-4b5d-ad5f-d95bda3a7520|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "padstack|55040000|123245000|13acfebe-adef-474b-acfa-9cc50d05dd11|00000000-0000-0000-0000-000000000000",
           "its a support hole, not suppost to have copper"
         ],
@@ -220,10 +192,6 @@
         [
           "solder_mask_bridge|162250000|89900000|76a24934-7b8b-4413-a025-b5d70538e418|af85676d-401c-439d-a55b-0fc4c126b5ed",
           "using the given footprint for the device, so this isnt cause for alarm"
-        ],
-        [
-          "unconnected_items|60790000|31573554|F.Cu|4|692396fe-0980-454b-918c-04aa65975220|865cddad-b252-41bd-8325-9859fa9331ae",
-          "its fine the other 2 shell through holes are connected to GND"
         ]
       ],
       "meta": {
@@ -1012,7 +980,7 @@
         "uuid": "29dacc10-fb0d-42da-8b4b-fe903faf3f1a"
       }
     ],
-    "used_designators": "S7,C42,C44-46,C104,C115-119,#PWR37,#PWR79,#PWR112,#PWR114,#PWR121-122,#PWR130-134,#PWR136-138,#PWR174-176,#PWR249,R11-14,R109-112,U11,U13,X3-4,F1-2",
+    "used_designators": "#PWR139,#PWR141,D5-6,R109-110",
     "variants": []
   },
   "sheets": [
